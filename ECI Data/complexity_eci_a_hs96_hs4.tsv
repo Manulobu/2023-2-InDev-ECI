@@ -1,0 +1,2700 @@
+year	country_id	country_name	continent_id	continent_name	eci_rank	eci
+1998	ago	Angola	af	Africa	84	-1.4397331439
+1998	civ	Cote d\'Ivoire	af	Africa	85	-1.4782507697
+1998	cmr	Cameroon	af	Africa	88	-1.7859978741
+1998	dza	Algeria	af	Africa	73	-1.0949469534
+1998	egy	Egypt	af	Africa	68	-0.9238155046
+1998	gab	Gabon	af	Africa	66	-0.7892263899
+1998	ken	Kenya	af	Africa	55	-0.3289889798
+1998	lby	Libya	af	Africa	77	-1.1654320676
+1998	mar	Morocco	af	Africa	76	-1.1155122238
+1998	nga	Nigeria	af	Africa	89	-1.9685628204
+1998	tun	Tunisia	af	Africa	74	-1.0973679997
+1998	zaf	South Africa	af	Africa	29	0.587158765
+1998	zwe	Zimbabwe	af	Africa	54	-0.3231176086
+1998	are	United Arab Emirates	as	Asia	70	-0.962839659
+1998	bgd	Bangladesh	as	Asia	87	-1.7610516637
+1998	chn	China	as	Asia	48	-0.1177000305
+1998	hkg	Hong Kong	as	Asia	53	-0.3160075193
+1998	idn	Indonesia	as	Asia	65	-0.7305580843
+1998	ind	India	as	Asia	44	-0.022361451
+1998	irn	Iran	as	Asia	62	-0.5275701511
+1998	irq	Iraq	as	Asia	67	-0.8758050707
+1998	isr	Israel	as	Asia	20	0.8225320239
+1998	jor	Jordan	as	Asia	39	0.164511102
+1998	jpn	Japan	as	Asia	1	2.0103752909
+1998	kaz	Kazakhstan	as	Asia	33	0.3948002317
+1998	kor	South Korea	as	Asia	32	0.4675780446
+1998	kwt	Kuwait	as	Asia	63	-0.5579247204
+1998	lka	Sri Lanka	as	Asia	80	-1.303414042
+1998	mys	Malaysia	as	Asia	51	-0.2136489607
+1998	omn	Oman	as	Asia	75	-1.1078477477
+1998	pak	Pakistan	as	Asia	83	-1.425025293
+1998	phl	Philippines	as	Asia	69	-0.9425255284
+1998	qat	Qatar	as	Asia	86	-1.5249035008
+1998	sau	Saudi Arabia	as	Asia	49	-0.1419978069
+1998	sgp	Singapore	as	Asia	23	0.7593357031
+1998	syr	Syria	as	Asia	82	-1.4143158738
+1998	tha	Thailand	as	Asia	61	-0.5094766729
+1998	tur	Turkey	as	Asia	52	-0.2152856972
+1998	uzb	Uzbekistan	as	Asia	56	-0.3617349605
+1998	vnm	Vietnam	as	Asia	81	-1.3172651207
+1998	\N	Chinese Taipei	as	Asia	26	0.6334794006
+1998	aut	Austria	eu	Europe	8	1.4928491239
+1998	bgr	Bulgaria	eu	Europe	37	0.2361961876
+1998	blr	Belarus	eu	Europe	24	0.6922839555
+1998	che	Switzerland	eu	Europe	3	1.8446015794
+1998	cze	Czechia	eu	Europe	14	1.075616254
+1998	deu	Germany	eu	Europe	2	1.9587105012
+1998	dnk	Denmark	eu	Europe	11	1.1343217728
+1998	esp	Spain	eu	Europe	21	0.8217327558
+1998	fin	Finland	eu	Europe	6	1.7402678743
+1998	fra	France	eu	Europe	9	1.48131921
+1998	gbr	United Kingdom	eu	Europe	5	1.7595513348
+1998	grc	Greece	eu	Europe	46	-0.0733388036
+1998	hrv	Croatia	eu	Europe	34	0.3853169188
+1998	hun	Hungary	eu	Europe	30	0.564570363
+1998	irl	Ireland	eu	Europe	10	1.1632305617
+1998	ita	Italy	eu	Europe	12	1.1096061327
+1998	ltu	Lithuania	eu	Europe	40	0.1531625179
+1998	mkd	North Macedonia	eu	Europe	50	-0.1439633088
+1998	nld	Netherlands	eu	Europe	13	1.090772011
+1998	nor	Norway	eu	Europe	15	0.9975165648
+1998	pol	Poland	eu	Europe	31	0.5332203689
+1998	prt	Portugal	eu	Europe	45	-0.0530417615
+1998	rou	Romania	eu	Europe	41	0.1125561393
+1998	rus	Russia	eu	Europe	19	0.9203396697
+1998	svk	Slovakia	eu	Europe	18	0.9582863376
+1998	svn	Slovenia	eu	Europe	16	0.9747288769
+1998	swe	Sweden	eu	Europe	4	1.8257029722
+1998	ukr	Ukraine	eu	Europe	22	0.779605094
+1998	can	Canada	na	North America	17	0.9669779055
+1998	cri	Costa Rica	na	North America	60	-0.4382218271
+1998	dom	Dominican Republic	na	North America	79	-1.2170922132
+1998	gtm	Guatemala	na	North America	57	-0.3953562323
+1998	hnd	Honduras	na	North America	78	-1.189728763
+1998	jam	Jamaica	na	North America	72	-1.0640579108
+1998	mex	Mexico	na	North America	38	0.2157356985
+1998	pan	Panama	na	North America	59	-0.4318819492
+1998	slv	El Salvador	na	North America	58	-0.4090605806
+1998	usa	United States	na	North America	7	1.6396286807
+1998	aus	Australia	oc	Oceania	28	0.6155239347
+1998	nzl	New Zealand	oc	Oceania	27	0.6169825226
+1998	arg	Argentina	sa	South America	36	0.249927273
+1998	bra	Brazil	sa	South America	25	0.6886299339
+1998	chl	Chile	sa	South America	42	0.0345986477
+1998	col	Colombia	sa	South America	47	-0.0829152313
+1998	ecu	Ecuador	sa	South America	71	-1.0537191974
+1998	per	Peru	sa	South America	64	-0.6728637468
+1998	ury	Uruguay	sa	South America	35	0.3824862009
+1998	ven	Venezuela	sa	South America	43	0.0291269778
+1999	ago	Angola	af	Africa	92	-2.0006032625
+1999	civ	Cote d\'Ivoire	af	Africa	86	-1.4128507731
+1999	cmr	Cameroon	af	Africa	90	-1.8090559065
+1999	dza	Algeria	af	Africa	84	-1.2897873965
+1999	egy	Egypt	af	Africa	68	-0.7467602762
+1999	gab	Gabon	af	Africa	70	-0.7985949982
+1999	gha	Ghana	af	Africa	82	-1.2351741491
+1999	ken	Kenya	af	Africa	57	-0.2853226648
+1999	lby	Libya	af	Africa	80	-1.1678584431
+1999	mar	Morocco	af	Africa	74	-1.0414533114
+1999	nga	Nigeria	af	Africa	91	-1.9702442602
+1999	tun	Tunisia	af	Africa	76	-1.0734465142
+1999	zaf	South Africa	af	Africa	33	0.4605673428
+1999	zwe	Zimbabwe	af	Africa	54	-0.2631516773
+1999	are	United Arab Emirates	as	Asia	67	-0.6976441443
+1999	bgd	Bangladesh	as	Asia	89	-1.659225108
+1999	chn	China	as	Asia	47	-0.0376742421
+1999	hkg	Hong Kong	as	Asia	53	-0.1449230595
+1999	idn	Indonesia	as	Asia	65	-0.6390097234
+1999	ind	India	as	Asia	45	0.0431350814
+1999	irn	Iran	as	Asia	63	-0.5113333556
+1999	irq	Iraq	as	Asia	87	-1.4372223657
+1999	isr	Israel	as	Asia	21	0.858425702
+1999	jor	Jordan	as	Asia	46	0.0340712578
+1999	jpn	Japan	as	Asia	1	2.0077156008
+1999	kaz	Kazakhstan	as	Asia	38	0.1941951722
+1999	kor	South Korea	as	Asia	32	0.4945257335
+1999	kwt	Kuwait	as	Asia	66	-0.6958188063
+1999	lka	Sri Lanka	as	Asia	78	-1.1125632106
+1999	mys	Malaysia	as	Asia	48	-0.0528314435
+1999	omn	Oman	as	Asia	73	-1.0285958801
+1999	pak	Pakistan	as	Asia	83	-1.243310919
+1999	phl	Philippines	as	Asia	69	-0.7890259813
+1999	qat	Qatar	as	Asia	85	-1.3881151217
+1999	sau	Saudi Arabia	as	Asia	62	-0.4791132657
+1999	sgp	Singapore	as	Asia	18	0.9398006985
+1999	syr	Syria	as	Asia	81	-1.1781184551
+1999	tha	Thailand	as	Asia	55	-0.2741160954
+1999	tur	Turkey	as	Asia	52	-0.1435747151
+1999	uzb	Uzbekistan	as	Asia	61	-0.4175948547
+1999	vnm	Vietnam	as	Asia	79	-1.1431712911
+1999	\N	Chinese Taipei	as	Asia	23	0.785863601
+1999	aut	Austria	eu	Europe	8	1.5042589481
+1999	bel	Belgium	eu	Europe	11	1.2576049188
+1999	bgr	Bulgaria	eu	Europe	39	0.1927104828
+1999	blr	Belarus	eu	Europe	26	0.6414131587
+1999	che	Switzerland	eu	Europe	3	1.7730747782
+1999	cze	Czechia	eu	Europe	12	1.1371381848
+1999	deu	Germany	eu	Europe	2	1.9328946444
+1999	dnk	Denmark	eu	Europe	13	1.1341838023
+1999	esp	Spain	eu	Europe	22	0.833239027
+1999	fin	Finland	eu	Europe	6	1.6711959794
+1999	fra	France	eu	Europe	9	1.4907787646
+1999	gbr	United Kingdom	eu	Europe	4	1.760141647
+1999	grc	Greece	eu	Europe	44	0.0588696903
+1999	hrv	Croatia	eu	Europe	34	0.4377307516
+1999	hun	Hungary	eu	Europe	28	0.6336451588
+1999	irl	Ireland	eu	Europe	10	1.2592296353
+1999	ita	Italy	eu	Europe	14	1.1313022701
+1999	ltu	Lithuania	eu	Europe	41	0.1148863348
+1999	nld	Netherlands	eu	Europe	15	1.0521708496
+1999	nor	Norway	eu	Europe	20	0.8842592716
+1999	pol	Poland	eu	Europe	29	0.5956476531
+1999	prt	Portugal	eu	Europe	42	0.0939517958
+1999	rou	Romania	eu	Europe	40	0.1407868275
+1999	rus	Russia	eu	Europe	24	0.7568904168
+1999	svk	Slovakia	eu	Europe	17	0.9786601168
+1999	svn	Slovenia	eu	Europe	16	1.0396009247
+1999	swe	Sweden	eu	Europe	5	1.7595573375
+1999	ukr	Ukraine	eu	Europe	25	0.6628813164
+1999	can	Canada	na	North America	19	0.9152672625
+1999	cri	Costa Rica	na	North America	56	-0.2789117694
+1999	cub	Cuba	na	North America	51	-0.1034198933
+1999	dom	Dominican Republic	na	North America	71	-0.9448830058
+1999	gtm	Guatemala	na	North America	60	-0.3484037237
+1999	hnd	Honduras	na	North America	77	-1.0854418734
+1999	jam	Jamaica	na	North America	72	-0.9512118101
+1999	mex	Mexico	na	North America	35	0.3772514286
+1999	pan	Panama	na	North America	58	-0.3074915984
+1999	slv	El Salvador	na	North America	59	-0.3377193673
+1999	usa	United States	na	North America	7	1.6285179609
+1999	aus	Australia	oc	Oceania	31	0.5036966076
+1999	nzl	New Zealand	oc	Oceania	30	0.5257262664
+1999	png	Papua New Guinea	oc	Oceania	88	-1.6508367451
+1999	arg	Argentina	sa	South America	37	0.2453098272
+1999	bra	Brazil	sa	South America	27	0.6404842091
+1999	chl	Chile	sa	South America	49	-0.0607221603
+1999	col	Colombia	sa	South America	50	-0.1008217162
+1999	ecu	Ecuador	sa	South America	75	-1.0570506176
+1999	per	Peru	sa	South America	64	-0.6280463361
+1999	ury	Uruguay	sa	South America	36	0.3712331626
+1999	ven	Venezuela	sa	South America	43	0.0677546855
+2000	ago	Angola	af	Africa	96	-2.1451971387
+2000	civ	Cote d\'Ivoire	af	Africa	81	-1.0232874598
+2000	cmr	Cameroon	af	Africa	93	-1.721481238
+2000	cog	Republic of the Congo	af	Africa	89	-1.4992995159
+2000	dza	Algeria	af	Africa	88	-1.3854779966
+2000	egy	Egypt	af	Africa	68	-0.601431737
+2000	gab	Gabon	af	Africa	83	-1.1791848675
+2000	gha	Ghana	af	Africa	85	-1.2392107405
+2000	ken	Kenya	af	Africa	62	-0.2611195077
+2000	lby	Libya	af	Africa	92	-1.697041255
+2000	mar	Morocco	af	Africa	77	-0.9160715435
+2000	nga	Nigeria	af	Africa	95	-2.1290587252
+2000	tun	Tunisia	af	Africa	71	-0.7506244273
+2000	zaf	South Africa	af	Africa	35	0.3689310944
+2000	zwe	Zimbabwe	af	Africa	63	-0.2860806526
+2000	are	United Arab Emirates	as	Asia	70	-0.6878927405
+2000	bgd	Bangladesh	as	Asia	87	-1.3289126706
+2000	chn	China	as	Asia	44	0.1379668781
+2000	hkg	Hong Kong	as	Asia	43	0.1394252989
+2000	idn	Indonesia	as	Asia	64	-0.4807174474
+2000	ind	India	as	Asia	45	0.1376314495
+2000	irn	Iran	as	Asia	69	-0.667396694
+2000	irq	Iraq	as	Asia	91	-1.6409303906
+2000	isr	Israel	as	Asia	19	0.9613804862
+2000	jor	Jordan	as	Asia	47	0.0100579619
+2000	jpn	Japan	as	Asia	1	2.0779307967
+2000	kaz	Kazakhstan	as	Asia	57	-0.1364636533
+2000	kor	South Korea	as	Asia	28	0.6125297821
+2000	kwt	Kuwait	as	Asia	79	-0.9808711932
+2000	lka	Sri Lanka	as	Asia	74	-0.8886106385
+2000	mys	Malaysia	as	Asia	41	0.171321267
+2000	omn	Oman	as	Asia	78	-0.9751227983
+2000	pak	Pakistan	as	Asia	82	-1.0425408747
+2000	phl	Philippines	as	Asia	65	-0.4975144277
+2000	qat	Qatar	as	Asia	86	-1.2657184936
+2000	sau	Saudi Arabia	as	Asia	58	-0.1649670558
+2000	sgp	Singapore	as	Asia	15	1.112787522
+2000	syr	Syria	as	Asia	84	-1.2023260758
+2000	tha	Thailand	as	Asia	52	-0.0462275328
+2000	tur	Turkey	as	Asia	53	-0.0603768622
+2000	uzb	Uzbekistan	as	Asia	67	-0.5771569128
+2000	vnm	Vietnam	as	Asia	75	-0.8942903608
+2000	\N	Chinese Taipei	as	Asia	18	0.9681235285
+2000	yem	Yemen	as	Asia	94	-1.7881395563
+2000	aut	Austria	eu	Europe	8	1.5194979152
+2000	bel	Belgium	eu	Europe	12	1.1911644643
+2000	bgr	Bulgaria	eu	Europe	40	0.1798438678
+2000	blr	Belarus	eu	Europe	30	0.5945729811
+2000	che	Switzerland	eu	Europe	3	1.8064218677
+2000	cze	Czechia	eu	Europe	13	1.1852891927
+2000	deu	Germany	eu	Europe	2	1.9147505514
+2000	dnk	Denmark	eu	Europe	14	1.1360852984
+2000	esp	Spain	eu	Europe	22	0.8605406417
+2000	fin	Finland	eu	Europe	6	1.6677889414
+2000	fra	France	eu	Europe	9	1.4923015647
+2000	gbr	United Kingdom	eu	Europe	5	1.7343799144
+2000	grc	Greece	eu	Europe	46	0.0958769673
+2000	hrv	Croatia	eu	Europe	34	0.3741885663
+2000	hun	Hungary	eu	Europe	25	0.6917190422
+2000	irl	Ireland	eu	Europe	10	1.2625024799
+2000	ita	Italy	eu	Europe	11	1.1937435823
+2000	ltu	Lithuania	eu	Europe	42	0.1531939976
+2000	mkd	North Macedonia	eu	Europe	54	-0.0785033429
+2000	nld	Netherlands	eu	Europe	17	1.0039158461
+2000	nor	Norway	eu	Europe	24	0.8060252572
+2000	pol	Poland	eu	Europe	27	0.6193676026
+2000	prt	Portugal	eu	Europe	38	0.1981901084
+2000	rou	Romania	eu	Europe	39	0.1810069577
+2000	rus	Russia	eu	Europe	21	0.8638139873
+2000	svk	Slovakia	eu	Europe	20	0.9319481486
+2000	svn	Slovenia	eu	Europe	16	1.0982827632
+2000	swe	Sweden	eu	Europe	4	1.7403019414
+2000	ukr	Ukraine	eu	Europe	29	0.6074115601
+2000	can	Canada	na	North America	23	0.8312315698
+2000	cri	Costa Rica	na	North America	55	-0.1266904634
+2000	cub	Cuba	na	North America	51	-0.0370483078
+2000	dom	Dominican Republic	na	North America	72	-0.7736477241
+2000	gtm	Guatemala	na	North America	61	-0.2413147869
+2000	hnd	Honduras	na	North America	76	-0.895243917
+2000	jam	Jamaica	na	North America	73	-0.7789368905
+2000	mex	Mexico	na	North America	32	0.4751270536
+2000	pan	Panama	na	North America	56	-0.1289309406
+2000	slv	El Salvador	na	North America	59	-0.2115082864
+2000	usa	United States	na	North America	7	1.5905494058
+2000	aus	Australia	oc	Oceania	33	0.4306406644
+2000	nzl	New Zealand	oc	Oceania	31	0.4830987965
+2000	png	Papua New Guinea	oc	Oceania	90	-1.5402356827
+2000	arg	Argentina	sa	South America	37	0.2624570394
+2000	bra	Brazil	sa	South America	26	0.6759906767
+2000	chl	Chile	sa	South America	49	-0.0150719459
+2000	col	Colombia	sa	South America	48	-0.0147534827
+2000	ecu	Ecuador	sa	South America	80	-1.0073106849
+2000	per	Peru	sa	South America	66	-0.5709317528
+2000	pry	Paraguay	sa	South America	60	-0.2193559187
+2000	ury	Uruguay	sa	South America	36	0.2742155216
+2000	ven	Venezuela	sa	South America	50	-0.0252954919
+2001	ago	Angola	af	Africa	101	-1.8126707264
+2001	bwa	Botswana	af	Africa	67	-0.5143428632
+2001	civ	Cote d\'Ivoire	af	Africa	76	-0.7172180368
+2001	cmr	Cameroon	af	Africa	99	-1.5903074348
+2001	cog	Republic of the Congo	af	Africa	95	-1.3880308932
+2001	dza	Algeria	af	Africa	90	-1.2348164277
+2001	egy	Egypt	af	Africa	71	-0.5904980213
+2001	gab	Gabon	af	Africa	91	-1.2451731149
+2001	gha	Ghana	af	Africa	89	-1.2018848731
+2001	ken	Kenya	af	Africa	60	-0.3021517755
+2001	lby	Libya	af	Africa	88	-1.1560422205
+2001	mar	Morocco	af	Africa	83	-1.0044317569
+2001	nga	Nigeria	af	Africa	102	-1.9946544966
+2001	sdn	Sudan	af	Africa	98	-1.4847281706
+2001	tun	Tunisia	af	Africa	68	-0.5283146373
+2001	zaf	South Africa	af	Africa	37	0.2428961597
+2001	zwe	Zimbabwe	af	Africa	65	-0.4581856478
+2001	are	United Arab Emirates	as	Asia	63	-0.3909969644
+2001	aze	Azerbaijan	as	Asia	59	-0.2391574638
+2001	bgd	Bangladesh	as	Asia	93	-1.3429097103
+2001	chn	China	as	Asia	35	0.298710053
+2001	hkg	Hong Kong	as	Asia	38	0.2424943882
+2001	idn	Indonesia	as	Asia	62	-0.362493088
+2001	ind	India	as	Asia	41	0.2229765727
+2001	irn	Iran	as	Asia	78	-0.8072100979
+2001	irq	Iraq	as	Asia	92	-1.2519960306
+2001	isr	Israel	as	Asia	20	0.9963517557
+2001	jor	Jordan	as	Asia	53	-0.0778376256
+2001	jpn	Japan	as	Asia	1	2.2290168386
+2001	kaz	Kazakhstan	as	Asia	57	-0.2317468969
+2001	khm	Cambodia	as	Asia	94	-1.3607037483
+2001	kor	South Korea	as	Asia	26	0.8078562813
+2001	kwt	Kuwait	as	Asia	69	-0.5480126091
+2001	lka	Sri Lanka	as	Asia	77	-0.7811987061
+2001	mmr	Myanmar	as	Asia	96	-1.4119302866
+2001	mys	Malaysia	as	Asia	34	0.3502940265
+2001	omn	Oman	as	Asia	74	-0.6373891311
+2001	pak	Pakistan	as	Asia	84	-1.0266880828
+2001	phl	Philippines	as	Asia	64	-0.3923386698
+2001	qat	Qatar	as	Asia	86	-1.0764669545
+2001	sau	Saudi Arabia	as	Asia	46	0.1172494544
+2001	sgp	Singapore	as	Asia	11	1.3132151371
+2001	syr	Syria	as	Asia	87	-1.0912544574
+2001	tha	Thailand	as	Asia	45	0.1177858195
+2001	tkm	Turkmenistan	as	Asia	85	-1.0719665381
+2001	tur	Turkey	as	Asia	51	-0.0236881312
+2001	uzb	Uzbekistan	as	Asia	73	-0.6157881311
+2001	vnm	Vietnam	as	Asia	81	-0.8795378842
+2001	\N	Chinese Taipei	as	Asia	10	1.3221236167
+2001	yem	Yemen	as	Asia	97	-1.4134287484
+2001	aut	Austria	eu	Europe	8	1.6060214986
+2001	bel	Belgium	eu	Europe	13	1.3035110025
+2001	bgr	Bulgaria	eu	Europe	43	0.1909436663
+2001	blr	Belarus	eu	Europe	31	0.55502947
+2001	che	Switzerland	eu	Europe	3	1.9689651628
+2001	cze	Czechia	eu	Europe	15	1.2582074978
+2001	deu	Germany	eu	Europe	2	1.9990350972
+2001	dnk	Denmark	eu	Europe	16	1.1905885926
+2001	esp	Spain	eu	Europe	21	0.9193823761
+2001	fin	Finland	eu	Europe	5	1.8177938991
+2001	fra	France	eu	Europe	9	1.4933355434
+2001	gbr	United Kingdom	eu	Europe	6	1.8073227794
+2001	grc	Greece	eu	Europe	48	0.112315599
+2001	hrv	Croatia	eu	Europe	33	0.4126029266
+2001	hun	Hungary	eu	Europe	23	0.8620815552
+2001	irl	Ireland	eu	Europe	12	1.3048715902
+2001	ita	Italy	eu	Europe	14	1.2839684921
+2001	ltu	Lithuania	eu	Europe	49	0.0974487791
+2001	nld	Netherlands	eu	Europe	18	1.0688229363
+2001	nor	Norway	eu	Europe	24	0.8455599877
+2001	pol	Poland	eu	Europe	27	0.6979590978
+2001	prt	Portugal	eu	Europe	36	0.2893386706
+2001	rou	Romania	eu	Europe	44	0.1744314316
+2001	rus	Russia	eu	Europe	25	0.8102556736
+2001	svk	Slovakia	eu	Europe	19	1.0065091351
+2001	svn	Slovenia	eu	Europe	17	1.1891543286
+2001	swe	Sweden	eu	Europe	4	1.8905007427
+2001	ukr	Ukraine	eu	Europe	28	0.6338573973
+2001	can	Canada	na	North America	22	0.8640081429
+2001	cri	Costa Rica	na	North America	54	-0.0867305282
+2001	cub	Cuba	na	North America	56	-0.2271468731
+2001	dom	Dominican Republic	na	North America	72	-0.6134852468
+2001	gtm	Guatemala	na	North America	61	-0.3102101088
+2001	hnd	Honduras	na	North America	79	-0.8574282977
+2001	jam	Jamaica	na	North America	80	-0.8705169105
+2001	mex	Mexico	na	North America	30	0.5596948518
+2001	pan	Panama	na	North America	55	-0.1288731221
+2001	slv	El Salvador	na	North America	58	-0.232668768
+2001	usa	United States	na	North America	7	1.6489197186
+2001	aus	Australia	oc	Oceania	40	0.2239884766
+2001	nzl	New Zealand	oc	Oceania	32	0.508444556
+2001	png	Papua New Guinea	oc	Oceania	100	-1.7234275727
+2001	arg	Argentina	sa	South America	39	0.2373736144
+2001	bol	Bolivia	sa	South America	70	-0.5713933314
+2001	bra	Brazil	sa	South America	29	0.6324619476
+2001	chl	Chile	sa	South America	52	-0.0749084545
+2001	col	Colombia	sa	South America	47	0.1146656362
+2001	ecu	Ecuador	sa	South America	82	-0.9463236829
+2001	per	Peru	sa	South America	75	-0.7000434298
+2001	pry	Paraguay	sa	South America	66	-0.477918004
+2001	ury	Uruguay	sa	South America	42	0.2212528205
+2001	ven	Venezuela	sa	South America	50	0.017670586
+2002	ago	Angola	af	Africa	103	-1.9195619455
+2002	bwa	Botswana	af	Africa	66	-0.4758269218
+2002	civ	Cote d\'Ivoire	af	Africa	74	-0.6296415479
+2002	cmr	Cameroon	af	Africa	93	-1.2596887527
+2002	cog	Republic of the Congo	af	Africa	90	-1.2059949091
+2002	dza	Algeria	af	Africa	92	-1.2572503495
+2002	egy	Egypt	af	Africa	75	-0.6319565405
+2002	gab	Gabon	af	Africa	102	-1.8959708936
+2002	gha	Ghana	af	Africa	94	-1.300063004
+2002	ken	Kenya	af	Africa	63	-0.4473766621
+2002	lby	Libya	af	Africa	88	-1.0379062663
+2002	mar	Morocco	af	Africa	86	-0.9489879065
+2002	nam	Namibia	af	Africa	61	-0.388989448
+2002	nga	Nigeria	af	Africa	100	-1.6236170251
+2002	sdn	Sudan	af	Africa	96	-1.4186467589
+2002	tun	Tunisia	af	Africa	65	-0.4689718674
+2002	zaf	South Africa	af	Africa	39	0.2572818717
+2002	zwe	Zimbabwe	af	Africa	73	-0.6161774506
+2002	are	United Arab Emirates	as	Asia	67	-0.4843960201
+2002	aze	Azerbaijan	as	Asia	62	-0.4420420964
+2002	bgd	Bangladesh	as	Asia	91	-1.232613268
+2002	chn	China	as	Asia	37	0.2848644802
+2002	hkg	Hong Kong	as	Asia	35	0.3722215572
+2002	idn	Indonesia	as	Asia	59	-0.2755590013
+2002	ind	India	as	Asia	38	0.2799247597
+2002	irn	Iran	as	Asia	80	-0.8062178363
+2002	irq	Iraq	as	Asia	99	-1.5392985355
+2002	isr	Israel	as	Asia	18	1.0445163579
+2002	jor	Jordan	as	Asia	52	-0.0762500709
+2002	jpn	Japan	as	Asia	1	2.305815399
+2002	kaz	Kazakhstan	as	Asia	58	-0.2405550877
+2002	khm	Cambodia	as	Asia	97	-1.4508341365
+2002	kor	South Korea	as	Asia	22	0.9469279967
+2002	kwt	Kuwait	as	Asia	72	-0.5929165461
+2002	lka	Sri Lanka	as	Asia	76	-0.7075156044
+2002	mmr	Myanmar	as	Asia	95	-1.3641958225
+2002	mys	Malaysia	as	Asia	34	0.4014025441
+2002	omn	Oman	as	Asia	71	-0.5871468452
+2002	pak	Pakistan	as	Asia	87	-0.9798297989
+2002	phl	Philippines	as	Asia	56	-0.1929698589
+2002	qat	Qatar	as	Asia	79	-0.7855654053
+2002	sau	Saudi Arabia	as	Asia	50	0.0344076752
+2002	sgp	Singapore	as	Asia	14	1.3022423327
+2002	syr	Syria	as	Asia	89	-1.1222940202
+2002	tha	Thailand	as	Asia	45	0.1470487095
+2002	tkm	Turkmenistan	as	Asia	85	-0.9349986513
+2002	tur	Turkey	as	Asia	51	-0.0221898173
+2002	uzb	Uzbekistan	as	Asia	70	-0.5862403781
+2002	vnm	Vietnam	as	Asia	81	-0.8337063328
+2002	\N	Chinese Taipei	as	Asia	10	1.4465916601
+2002	yem	Yemen	as	Asia	98	-1.511447906
+2002	aut	Austria	eu	Europe	8	1.6403895417
+2002	bel	Belgium	eu	Europe	16	1.2697430833
+2002	bgr	Bulgaria	eu	Europe	41	0.2127675094
+2002	blr	Belarus	eu	Europe	30	0.6358586233
+2002	che	Switzerland	eu	Europe	2	2.032294905
+2002	cze	Czechia	eu	Europe	12	1.319524433
+2002	deu	Germany	eu	Europe	3	2.0177190624
+2002	dnk	Denmark	eu	Europe	17	1.1088428736
+2002	esp	Spain	eu	Europe	23	0.9114958893
+2002	fin	Finland	eu	Europe	5	1.7873097854
+2002	fra	France	eu	Europe	9	1.4505894156
+2002	gbr	United Kingdom	eu	Europe	6	1.7605747574
+2002	grc	Greece	eu	Europe	42	0.1958991944
+2002	hrv	Croatia	eu	Europe	32	0.4685369048
+2002	hun	Hungary	eu	Europe	21	0.9911551689
+2002	irl	Ireland	eu	Europe	11	1.330770733
+2002	ita	Italy	eu	Europe	13	1.3184795059
+2002	ltu	Lithuania	eu	Europe	49	0.0607004359
+2002	nld	Netherlands	eu	Europe	19	1.0156315917
+2002	nor	Norway	eu	Europe	27	0.6862483869
+2002	pol	Poland	eu	Europe	26	0.731906862
+2002	prt	Portugal	eu	Europe	36	0.343458299
+2002	rou	Romania	eu	Europe	43	0.1704209246
+2002	rus	Russia	eu	Europe	25	0.7592194231
+2002	svk	Slovakia	eu	Europe	20	0.9958656945
+2002	svn	Slovenia	eu	Europe	15	1.2750878242
+2002	swe	Sweden	eu	Europe	4	1.8499411791
+2002	ukr	Ukraine	eu	Europe	28	0.6688398488
+2002	can	Canada	na	North America	24	0.8207244236
+2002	cri	Costa Rica	na	North America	53	-0.0819848478
+2002	cub	Cuba	na	North America	64	-0.4679507482
+2002	dom	Dominican Republic	na	North America	68	-0.5640193337
+2002	gtm	Guatemala	na	North America	60	-0.3470311562
+2002	hnd	Honduras	na	North America	84	-0.8977349399
+2002	jam	Jamaica	na	North America	77	-0.7081851023
+2002	mex	Mexico	na	North America	29	0.6415434773
+2002	pan	Panama	na	North America	55	-0.1833457282
+2002	slv	El Salvador	na	North America	57	-0.2148318225
+2002	usa	United States	na	North America	7	1.6526138178
+2002	aus	Australia	oc	Oceania	46	0.1233059687
+2002	nzl	New Zealand	oc	Oceania	33	0.4472070453
+2002	png	Papua New Guinea	oc	Oceania	101	-1.660342791
+2002	arg	Argentina	sa	South America	47	0.1132196648
+2002	bol	Bolivia	sa	South America	82	-0.8440901031
+2002	bra	Brazil	sa	South America	31	0.5642802527
+2002	chl	Chile	sa	South America	54	-0.1773325925
+2002	col	Colombia	sa	South America	40	0.2154503065
+2002	ecu	Ecuador	sa	South America	83	-0.8771650843
+2002	per	Peru	sa	South America	78	-0.7553978479
+2002	pry	Paraguay	sa	South America	69	-0.5787472154
+2002	ury	Uruguay	sa	South America	44	0.1578678633
+2002	ven	Venezuela	sa	South America	48	0.084840584
+2003	ago	Angola	af	Africa	102	-1.9540636792
+2003	bwa	Botswana	af	Africa	63	-0.4076329094
+2003	civ	Cote d\'Ivoire	af	Africa	74	-0.676185138
+2003	cmr	Cameroon	af	Africa	89	-1.1337181045
+2003	cog	Republic of the Congo	af	Africa	92	-1.2688658503
+2003	dza	Algeria	af	Africa	90	-1.2452107256
+2003	egy	Egypt	af	Africa	66	-0.5379176235
+2003	gab	Gabon	af	Africa	98	-1.5653573373
+2003	gha	Ghana	af	Africa	93	-1.2847747787
+2003	ken	Kenya	af	Africa	70	-0.594410552
+2003	lby	Libya	af	Africa	88	-1.083691959
+2003	mar	Morocco	af	Africa	83	-0.8852797668
+2003	nam	Namibia	af	Africa	59	-0.3170791216
+2003	nga	Nigeria	af	Africa	100	-1.6571685667
+2003	sdn	Sudan	af	Africa	97	-1.5484689644
+2003	tun	Tunisia	af	Africa	64	-0.465790428
+2003	zaf	South Africa	af	Africa	37	0.3096440883
+2003	zwe	Zimbabwe	af	Africa	68	-0.5661699349
+2003	are	United Arab Emirates	as	Asia	62	-0.4022478283
+2003	aze	Azerbaijan	as	Asia	69	-0.5689148804
+2003	bgd	Bangladesh	as	Asia	94	-1.3211406987
+2003	chn	China	as	Asia	38	0.3082236128
+2003	hkg	Hong Kong	as	Asia	34	0.3940181374
+2003	idn	Indonesia	as	Asia	58	-0.2948218066
+2003	ind	India	as	Asia	39	0.3054763836
+2003	irn	Iran	as	Asia	76	-0.7151871443
+2003	irq	Iraq	as	Asia	80	-0.8242142311
+2003	isr	Israel	as	Asia	18	1.0144129652
+2003	jor	Jordan	as	Asia	54	-0.1536924101
+2003	jpn	Japan	as	Asia	1	2.2423901038
+2003	kaz	Kazakhstan	as	Asia	60	-0.3390352228
+2003	khm	Cambodia	as	Asia	96	-1.5381248787
+2003	kor	South Korea	as	Asia	21	0.9763603344
+2003	kwt	Kuwait	as	Asia	65	-0.506929747
+2003	lka	Sri Lanka	as	Asia	75	-0.6940561251
+2003	mmr	Myanmar	as	Asia	95	-1.4503582745
+2003	mys	Malaysia	as	Asia	35	0.3764344627
+2003	omn	Oman	as	Asia	79	-0.7808533865
+2003	pak	Pakistan	as	Asia	84	-0.9108829464
+2003	phl	Philippines	as	Asia	53	-0.1444233467
+2003	qat	Qatar	as	Asia	81	-0.8523739547
+2003	sau	Saudi Arabia	as	Asia	49	-0.0457086854
+2003	sgp	Singapore	as	Asia	14	1.3178448038
+2003	syr	Syria	as	Asia	86	-0.9658875353
+2003	tha	Thailand	as	Asia	42	0.1798690794
+2003	tkm	Turkmenistan	as	Asia	91	-1.2523772013
+2003	tur	Turkey	as	Asia	51	-0.0887985942
+2003	uzb	Uzbekistan	as	Asia	71	-0.5946915281
+2003	vnm	Vietnam	as	Asia	77	-0.7319087321
+2003	\N	Chinese Taipei	as	Asia	11	1.4043764581
+2003	yem	Yemen	as	Asia	101	-1.7235957091
+2003	aut	Austria	eu	Europe	8	1.6203703313
+2003	bel	Belgium	eu	Europe	16	1.234534476
+2003	bgr	Bulgaria	eu	Europe	41	0.187864757
+2003	blr	Belarus	eu	Europe	26	0.739212429
+2003	che	Switzerland	eu	Europe	3	1.9905236333
+2003	cze	Czechia	eu	Europe	13	1.3552541387
+2003	deu	Germany	eu	Europe	2	2.0039154635
+2003	dnk	Denmark	eu	Europe	17	1.1291945356
+2003	esp	Spain	eu	Europe	23	0.8742721291
+2003	fin	Finland	eu	Europe	5	1.7855845233
+2003	fra	France	eu	Europe	10	1.4199207626
+2003	gbr	United Kingdom	eu	Europe	6	1.7228169192
+2003	grc	Greece	eu	Europe	43	0.1740409088
+2003	hrv	Croatia	eu	Europe	33	0.3950146208
+2003	hun	Hungary	eu	Europe	22	0.9726178995
+2003	irl	Ireland	eu	Europe	9	1.4375096093
+2003	ita	Italy	eu	Europe	15	1.2679857643
+2003	ltu	Lithuania	eu	Europe	47	0.0742195379
+2003	nld	Netherlands	eu	Europe	19	1.0117795217
+2003	nor	Norway	eu	Europe	27	0.7370569489
+2003	pol	Poland	eu	Europe	29	0.7219846878
+2003	prt	Portugal	eu	Europe	36	0.3108197891
+2003	rou	Romania	eu	Europe	40	0.2332352482
+2003	rus	Russia	eu	Europe	24	0.8200323805
+2003	svk	Slovakia	eu	Europe	20	0.9983397013
+2003	svn	Slovenia	eu	Europe	12	1.3603953131
+2003	swe	Sweden	eu	Europe	4	1.8392209758
+2003	ukr	Ukraine	eu	Europe	28	0.7320502753
+2003	can	Canada	na	North America	25	0.7934137851
+2003	cri	Costa Rica	na	North America	52	-0.1251055555
+2003	cub	Cuba	na	North America	73	-0.609254746
+2003	dom	Dominican Republic	na	North America	67	-0.5654811344
+2003	gtm	Guatemala	na	North America	61	-0.3578113709
+2003	hnd	Honduras	na	North America	85	-0.960597336
+2003	mex	Mexico	na	North America	30	0.639407409
+2003	pan	Panama	na	North America	56	-0.2272218924
+2003	slv	El Salvador	na	North America	57	-0.2561813355
+2003	usa	United States	na	North America	7	1.6325426744
+2003	aus	Australia	oc	Oceania	44	0.1501066279
+2003	nzl	New Zealand	oc	Oceania	32	0.4347186975
+2003	png	Papua New Guinea	oc	Oceania	99	-1.6428550178
+2003	arg	Argentina	sa	South America	46	0.0857459962
+2003	bol	Bolivia	sa	South America	82	-0.8773770382
+2003	bra	Brazil	sa	South America	31	0.5839771361
+2003	chl	Chile	sa	South America	55	-0.2256958004
+2003	col	Colombia	sa	South America	48	0.0015996393
+2003	ecu	Ecuador	sa	South America	87	-0.9967849412
+2003	per	Peru	sa	South America	78	-0.7795092663
+2003	pry	Paraguay	sa	South America	72	-0.599746569
+2003	ury	Uruguay	sa	South America	45	0.0952703581
+2003	ven	Venezuela	sa	South America	50	-0.0799677212
+2004	ago	Angola	af	Africa	103	-1.5455990046
+2004	bwa	Botswana	af	Africa	76	-0.6843136105
+2004	civ	Cote d\'Ivoire	af	Africa	77	-0.7061835561
+2004	cmr	Cameroon	af	Africa	93	-1.1250296098
+2004	cog	Republic of the Congo	af	Africa	104	-1.6047204181
+2004	dza	Algeria	af	Africa	94	-1.1496190844
+2004	egy	Egypt	af	Africa	67	-0.4231625828
+2004	gab	Gabon	af	Africa	88	-0.9244313875
+2004	gha	Ghana	af	Africa	98	-1.2862905908
+2004	ken	Kenya	af	Africa	72	-0.5456104062
+2004	lby	Libya	af	Africa	90	-0.9625222395
+2004	mar	Morocco	af	Africa	83	-0.842545912
+2004	moz	Mozambique	af	Africa	89	-0.9398960617
+2004	nam	Namibia	af	Africa	71	-0.4674411977
+2004	nga	Nigeria	af	Africa	107	-2.0988436566
+2004	sdn	Sudan	af	Africa	101	-1.4354548301
+2004	tun	Tunisia	af	Africa	69	-0.4320938645
+2004	tza	Tanzania	af	Africa	99	-1.3135483539
+2004	zaf	South Africa	af	Africa	39	0.2530624147
+2004	zmb	Zambia	af	Africa	92	-1.0221735793
+2004	zwe	Zimbabwe	af	Africa	65	-0.4014896173
+2004	are	United Arab Emirates	as	Asia	56	-0.2040786719
+2004	aze	Azerbaijan	as	Asia	75	-0.6600962099
+2004	bgd	Bangladesh	as	Asia	96	-1.197960304
+2004	chn	China	as	Asia	36	0.4259695809
+2004	hkg	Hong Kong	as	Asia	35	0.4389122155
+2004	idn	Indonesia	as	Asia	60	-0.27365512
+2004	ind	India	as	Asia	40	0.2521035559
+2004	irn	Iran	as	Asia	82	-0.7733475307
+2004	irq	Iraq	as	Asia	95	-1.1670650591
+2004	isr	Israel	as	Asia	22	0.983773958
+2004	jor	Jordan	as	Asia	63	-0.3701861844
+2004	jpn	Japan	as	Asia	1	2.3509453726
+2004	kaz	Kazakhstan	as	Asia	68	-0.426465665
+2004	khm	Cambodia	as	Asia	102	-1.4855234958
+2004	kor	South Korea	as	Asia	18	1.1085487752
+2004	kwt	Kuwait	as	Asia	61	-0.2846974774
+2004	lbn	Lebanon	as	Asia	46	0.0942124424
+2004	lka	Sri Lanka	as	Asia	79	-0.7243678995
+2004	mmr	Myanmar	as	Asia	100	-1.3710015763
+2004	mys	Malaysia	as	Asia	32	0.5428230143
+2004	omn	Oman	as	Asia	80	-0.7305721183
+2004	pak	Pakistan	as	Asia	87	-0.8962526958
+2004	phl	Philippines	as	Asia	53	-0.1556743434
+2004	qat	Qatar	as	Asia	62	-0.2974317166
+2004	sau	Saudi Arabia	as	Asia	49	0.0156920341
+2004	sgp	Singapore	as	Asia	11	1.4773221081
+2004	syr	Syria	as	Asia	81	-0.766233841
+2004	tha	Thailand	as	Asia	38	0.3282705076
+2004	tkm	Turkmenistan	as	Asia	97	-1.2861616499
+2004	tur	Turkey	as	Asia	50	-0.0465192835
+2004	uzb	Uzbekistan	as	Asia	78	-0.7214335614
+2004	vnm	Vietnam	as	Asia	74	-0.6044457004
+2004	\N	Chinese Taipei	as	Asia	10	1.5309613774
+2004	yem	Yemen	as	Asia	105	-1.6697329706
+2004	aut	Austria	eu	Europe	7	1.6866971354
+2004	bel	Belgium	eu	Europe	16	1.1873305069
+2004	bgr	Bulgaria	eu	Europe	42	0.2192152103
+2004	blr	Belarus	eu	Europe	25	0.7867898561
+2004	che	Switzerland	eu	Europe	3	1.9825921366
+2004	cze	Czechia	eu	Europe	14	1.3595044637
+2004	deu	Germany	eu	Europe	2	2.0349196784
+2004	dnk	Denmark	eu	Europe	17	1.1198253828
+2004	esp	Spain	eu	Europe	23	0.8908606732
+2004	fin	Finland	eu	Europe	5	1.8412006779
+2004	fra	France	eu	Europe	12	1.4564762181
+2004	gbr	United Kingdom	eu	Europe	6	1.7701494915
+2004	grc	Greece	eu	Europe	41	0.2251649491
+2004	hrv	Croatia	eu	Europe	33	0.4895763323
+2004	hun	Hungary	eu	Europe	19	1.0407249992
+2004	irl	Ireland	eu	Europe	9	1.5312276153
+2004	ita	Italy	eu	Europe	15	1.285171227
+2004	ltu	Lithuania	eu	Europe	47	0.0847904938
+2004	mkd	North Macedonia	eu	Europe	57	-0.2279001591
+2004	nld	Netherlands	eu	Europe	21	1.0013130993
+2004	nor	Norway	eu	Europe	24	0.8423383169
+2004	pol	Poland	eu	Europe	27	0.7594258159
+2004	prt	Portugal	eu	Europe	37	0.4244362411
+2004	rou	Romania	eu	Europe	43	0.2116180136
+2004	rus	Russia	eu	Europe	29	0.7125581871
+2004	svk	Slovakia	eu	Europe	20	1.0320267129
+2004	svn	Slovenia	eu	Europe	13	1.4190579231
+2004	swe	Sweden	eu	Europe	4	1.9123101623
+2004	ukr	Ukraine	eu	Europe	31	0.5935251853
+2004	can	Canada	na	North America	26	0.7721692527
+2004	cri	Costa Rica	na	North America	55	-0.1968673616
+2004	cub	Cuba	na	North America	66	-0.4023775951
+2004	dom	Dominican Republic	na	North America	70	-0.4521910647
+2004	gtm	Guatemala	na	North America	64	-0.3799135524
+2004	hnd	Honduras	na	North America	86	-0.8747355201
+2004	mex	Mexico	na	North America	28	0.7403416212
+2004	pan	Panama	na	North America	54	-0.1565343904
+2004	slv	El Salvador	na	North America	59	-0.2453160623
+2004	usa	United States	na	North America	8	1.6624300348
+2004	aus	Australia	oc	Oceania	48	0.0437800518
+2004	nzl	New Zealand	oc	Oceania	34	0.4650077533
+2004	png	Papua New Guinea	oc	Oceania	106	-1.702709345
+2004	arg	Argentina	sa	South America	45	0.1250918779
+2004	bol	Bolivia	sa	South America	85	-0.8665520759
+2004	bra	Brazil	sa	South America	30	0.6025397627
+2004	chl	Chile	sa	South America	58	-0.2381472369
+2004	col	Colombia	sa	South America	52	-0.0806928372
+2004	ecu	Ecuador	sa	South America	91	-0.9636926422
+2004	per	Peru	sa	South America	84	-0.8523579726
+2004	pry	Paraguay	sa	South America	73	-0.559118618
+2004	ury	Uruguay	sa	South America	44	0.1570509783
+2004	ven	Venezuela	sa	South America	51	-0.0488563241
+2005	ago	Angola	af	Africa	102	-1.4123886827
+2005	bwa	Botswana	af	Africa	89	-0.9264830421
+2005	civ	Cote d\'Ivoire	af	Africa	80	-0.7200967961
+2005	cmr	Cameroon	af	Africa	105	-1.4793733
+2005	cog	Republic of the Congo	af	Africa	104	-1.4721667557
+2005	dza	Algeria	af	Africa	97	-1.2223919795
+2005	egy	Egypt	af	Africa	70	-0.4473357846
+2005	gab	Gabon	af	Africa	93	-1.0529019549
+2005	gha	Ghana	af	Africa	99	-1.2862535876
+2005	ken	Kenya	af	Africa	72	-0.5325341253
+2005	lby	Libya	af	Africa	81	-0.7276835971
+2005	mar	Morocco	af	Africa	87	-0.8402132959
+2005	moz	Mozambique	af	Africa	95	-1.0813393942
+2005	nam	Namibia	af	Africa	73	-0.5811156233
+2005	nga	Nigeria	af	Africa	109	-2.1891877317
+2005	sdn	Sudan	af	Africa	108	-1.9036971682
+2005	tun	Tunisia	af	Africa	67	-0.3995268051
+2005	tza	Tanzania	af	Africa	98	-1.2520879843
+2005	zaf	South Africa	af	Africa	41	0.2811686279
+2005	zmb	Zambia	af	Africa	91	-1.0124678624
+2005	zwe	Zimbabwe	af	Africa	68	-0.4122011875
+2005	are	United Arab Emirates	as	Asia	59	-0.2351420965
+2005	aze	Azerbaijan	as	Asia	77	-0.610398736
+2005	bgd	Bangladesh	as	Asia	94	-1.0796238869
+2005	chn	China	as	Asia	34	0.5188973508
+2005	hkg	Hong Kong	as	Asia	35	0.4851775753
+2005	idn	Indonesia	as	Asia	61	-0.2897139179
+2005	ind	India	as	Asia	42	0.2420215724
+2005	irn	Iran	as	Asia	82	-0.740416175
+2005	irq	Iraq	as	Asia	90	-0.9548912658
+2005	isr	Israel	as	Asia	21	1.0530059547
+2005	jor	Jordan	as	Asia	65	-0.349750283
+2005	jpn	Japan	as	Asia	1	2.3709339601
+2005	kaz	Kazakhstan	as	Asia	64	-0.3203670921
+2005	khm	Cambodia	as	Asia	106	-1.5126924168
+2005	kor	South Korea	as	Asia	16	1.2462298864
+2005	kwt	Kuwait	as	Asia	66	-0.3758898126
+2005	lbn	Lebanon	as	Asia	48	0.0905122802
+2005	lka	Sri Lanka	as	Asia	78	-0.6760095399
+2005	mmr	Myanmar	as	Asia	103	-1.4463394924
+2005	mys	Malaysia	as	Asia	32	0.552683912
+2005	omn	Oman	as	Asia	85	-0.7616005007
+2005	pak	Pakistan	as	Asia	86	-0.8175796739
+2005	phl	Philippines	as	Asia	55	-0.1530974492
+2005	qat	Qatar	as	Asia	57	-0.2306999141
+2005	sau	Saudi Arabia	as	Asia	46	0.1393410186
+2005	sgp	Singapore	as	Asia	10	1.6181529755
+2005	syr	Syria	as	Asia	79	-0.6854346593
+2005	tha	Thailand	as	Asia	38	0.381444702
+2005	tkm	Turkmenistan	as	Asia	100	-1.3280339984
+2005	tur	Turkey	as	Asia	49	0.0814033957
+2005	uzb	Uzbekistan	as	Asia	76	-0.5854634972
+2005	vnm	Vietnam	as	Asia	75	-0.584067039
+2005	\N	Chinese Taipei	as	Asia	9	1.6243159419
+2005	yem	Yemen	as	Asia	101	-1.3872465236
+2005	aut	Austria	eu	Europe	7	1.6645021294
+2005	bel	Belgium	eu	Europe	17	1.1185487564
+2005	bgr	Bulgaria	eu	Europe	43	0.2335461556
+2005	bih	Bosnia and Herzegovina	eu	Europe	39	0.3446507344
+2005	blr	Belarus	eu	Europe	25	0.8195150098
+2005	che	Switzerland	eu	Europe	3	1.980257394
+2005	cze	Czechia	eu	Europe	13	1.4266033225
+2005	deu	Germany	eu	Europe	2	2.0127046991
+2005	dnk	Denmark	eu	Europe	19	1.0683060716
+2005	esp	Spain	eu	Europe	24	0.8284272819
+2005	fin	Finland	eu	Europe	5	1.7748017727
+2005	fra	France	eu	Europe	11	1.4329244479
+2005	gbr	United Kingdom	eu	Europe	6	1.7454096679
+2005	grc	Greece	eu	Europe	45	0.2130529492
+2005	hrv	Croatia	eu	Europe	31	0.5671161847
+2005	hun	Hungary	eu	Europe	20	1.0554516923
+2005	irl	Ireland	eu	Europe	14	1.3103604763
+2005	ita	Italy	eu	Europe	15	1.2855981416
+2005	ltu	Lithuania	eu	Europe	44	0.2320441247
+2005	mkd	North Macedonia	eu	Europe	60	-0.2501241135
+2005	nld	Netherlands	eu	Europe	22	0.9595741492
+2005	nor	Norway	eu	Europe	23	0.9059987095
+2005	pol	Poland	eu	Europe	26	0.7748898209
+2005	prt	Portugal	eu	Europe	37	0.4201381647
+2005	rou	Romania	eu	Europe	40	0.312944173
+2005	rus	Russia	eu	Europe	29	0.6816922354
+2005	svk	Slovakia	eu	Europe	18	1.0821441828
+2005	svn	Slovenia	eu	Europe	12	1.4299520646
+2005	swe	Sweden	eu	Europe	4	1.8552804165
+2005	ukr	Ukraine	eu	Europe	30	0.6308361665
+2005	can	Canada	na	North America	28	0.7106528664
+2005	cri	Costa Rica	na	North America	54	-0.1497926025
+2005	cub	Cuba	na	North America	53	-0.0215450594
+2005	dom	Dominican Republic	na	North America	69	-0.4239357837
+2005	gtm	Guatemala	na	North America	71	-0.4561035363
+2005	hnd	Honduras	na	North America	88	-0.8753932111
+2005	jam	Jamaica	na	North America	83	-0.744353769
+2005	mex	Mexico	na	North America	27	0.7691598853
+2005	pan	Panama	na	North America	56	-0.1764054049
+2005	slv	El Salvador	na	North America	62	-0.3101619733
+2005	usa	United States	na	North America	8	1.6465006376
+2005	aus	Australia	oc	Oceania	51	0.0405613505
+2005	nzl	New Zealand	oc	Oceania	36	0.4554651854
+2005	png	Papua New Guinea	oc	Oceania	107	-1.6178061378
+2005	arg	Argentina	sa	South America	50	0.0485330422
+2005	bol	Bolivia	sa	South America	96	-1.1392187622
+2005	bra	Brazil	sa	South America	33	0.5341576398
+2005	chl	Chile	sa	South America	63	-0.3173487668
+2005	col	Colombia	sa	South America	58	-0.2347839877
+2005	ecu	Ecuador	sa	South America	92	-1.0280821318
+2005	per	Peru	sa	South America	84	-0.7581795578
+2005	pry	Paraguay	sa	South America	74	-0.5824876297
+2005	ury	Uruguay	sa	South America	47	0.1183443321
+2005	ven	Venezuela	sa	South America	52	-0.0143081291
+2006	ago	Angola	af	Africa	110	-1.7792218307
+2006	bwa	Botswana	af	Africa	95	-1.0107835092
+2006	civ	Cote d\'Ivoire	af	Africa	89	-0.7272802735
+2006	cmr	Cameroon	af	Africa	107	-1.4914174168
+2006	cog	Republic of the Congo	af	Africa	108	-1.5942783145
+2006	dza	Algeria	af	Africa	101	-1.2477897976
+2006	egy	Egypt	af	Africa	74	-0.3968837901
+2006	gab	Gabon	af	Africa	105	-1.4359479298
+2006	gha	Ghana	af	Africa	99	-1.1204302084
+2006	ken	Kenya	af	Africa	71	-0.3325085043
+2006	lby	Libya	af	Africa	90	-0.8129217374
+2006	mar	Morocco	af	Africa	82	-0.6278206512
+2006	moz	Mozambique	af	Africa	98	-1.0830819895
+2006	nam	Namibia	af	Africa	76	-0.477485715
+2006	nga	Nigeria	af	Africa	112	-2.2489726153
+2006	sdn	Sudan	af	Africa	111	-1.8279346382
+2006	tcd	Chad	af	Africa	113	-2.2718507036
+2006	tun	Tunisia	af	Africa	64	-0.239130913
+2006	tza	Tanzania	af	Africa	97	-1.0780875355
+2006	zaf	South Africa	af	Africa	42	0.2936387938
+2006	zmb	Zambia	af	Africa	94	-0.9378655654
+2006	zwe	Zimbabwe	af	Africa	72	-0.3667068923
+2006	are	United Arab Emirates	as	Asia	55	-0.0244410048
+2006	aze	Azerbaijan	as	Asia	88	-0.7054173475
+2006	bgd	Bangladesh	as	Asia	96	-1.0457071979
+2006	chn	China	as	Asia	32	0.6046238678
+2006	geo	Georgia	as	Asia	60	-0.2108364241
+2006	hkg	Hong Kong	as	Asia	31	0.6071098257
+2006	idn	Indonesia	as	Asia	66	-0.2541154692
+2006	ind	India	as	Asia	43	0.2771073824
+2006	irn	Iran	as	Asia	83	-0.6299794787
+2006	irq	Iraq	as	Asia	103	-1.4005343888
+2006	isr	Israel	as	Asia	21	1.0201371711
+2006	jor	Jordan	as	Asia	65	-0.2411162926
+2006	jpn	Japan	as	Asia	1	2.3380607229
+2006	kaz	Kazakhstan	as	Asia	67	-0.2616408346
+2006	khm	Cambodia	as	Asia	104	-1.4006417302
+2006	kor	South Korea	as	Asia	12	1.4397068415
+2006	kwt	Kuwait	as	Asia	75	-0.4130099659
+2006	lbn	Lebanon	as	Asia	47	0.2066912403
+2006	lka	Sri Lanka	as	Asia	79	-0.5813283732
+2006	mmr	Myanmar	as	Asia	102	-1.3716022636
+2006	mys	Malaysia	as	Asia	29	0.6812747969
+2006	omn	Oman	as	Asia	86	-0.6832192319
+2006	pak	Pakistan	as	Asia	84	-0.6476231934
+2006	phl	Philippines	as	Asia	54	-0.0207617181
+2006	qat	Qatar	as	Asia	63	-0.2309337273
+2006	sau	Saudi Arabia	as	Asia	52	0.092932206
+2006	sgp	Singapore	as	Asia	10	1.4652395494
+2006	syr	Syria	as	Asia	81	-0.6120456649
+2006	tha	Thailand	as	Asia	36	0.4777281508
+2006	tkm	Turkmenistan	as	Asia	100	-1.2172547069
+2006	tur	Turkey	as	Asia	46	0.2369115787
+2006	uzb	Uzbekistan	as	Asia	77	-0.5422160999
+2006	vnm	Vietnam	as	Asia	73	-0.3672192691
+2006	\N	Chinese Taipei	as	Asia	6	1.6699074611
+2006	yem	Yemen	as	Asia	106	-1.4512826704
+2006	aut	Austria	eu	Europe	8	1.6435365036
+2006	bel	Belgium	eu	Europe	19	1.0914387034
+2006	bgr	Bulgaria	eu	Europe	44	0.2597425991
+2006	bih	Bosnia and Herzegovina	eu	Europe	45	0.2582122313
+2006	blr	Belarus	eu	Europe	25	0.8138491864
+2006	che	Switzerland	eu	Europe	3	1.8978915499
+2006	cze	Czechia	eu	Europe	13	1.4096813018
+2006	deu	Germany	eu	Europe	2	1.9616076744
+2006	dnk	Denmark	eu	Europe	20	1.0860595223
+2006	esp	Spain	eu	Europe	23	0.8297592955
+2006	fin	Finland	eu	Europe	5	1.6925604252
+2006	fra	France	eu	Europe	14	1.3819360509
+2006	gbr	United Kingdom	eu	Europe	7	1.6479334426
+2006	grc	Greece	eu	Europe	49	0.1635480223
+2006	hrv	Croatia	eu	Europe	33	0.5827678583
+2006	hun	Hungary	eu	Europe	17	1.1652474356
+2006	irl	Ireland	eu	Europe	16	1.2455993473
+2006	ita	Italy	eu	Europe	15	1.3309674685
+2006	ltu	Lithuania	eu	Europe	41	0.3249479571
+2006	mkd	North Macedonia	eu	Europe	59	-0.1669519676
+2006	nld	Netherlands	eu	Europe	22	0.9615209044
+2006	nor	Norway	eu	Europe	24	0.8225543653
+2006	pol	Poland	eu	Europe	26	0.8130064861
+2006	prt	Portugal	eu	Europe	37	0.4771222718
+2006	rou	Romania	eu	Europe	39	0.4398031637
+2006	rus	Russia	eu	Europe	30	0.6505556674
+2006	srb	Serbia	eu	Europe	40	0.408269061
+2006	svk	Slovakia	eu	Europe	18	1.0922219563
+2006	svn	Slovenia	eu	Europe	11	1.4485687521
+2006	swe	Sweden	eu	Europe	4	1.7274863118
+2006	ukr	Ukraine	eu	Europe	35	0.5453967791
+2006	can	Canada	na	North America	28	0.698692811
+2006	cri	Costa Rica	na	North America	53	0.0224219553
+2006	cub	Cuba	na	North America	51	0.1472577129
+2006	dom	Dominican Republic	na	North America	69	-0.3097117641
+2006	gtm	Guatemala	na	North America	70	-0.3202283615
+2006	hnd	Honduras	na	North America	85	-0.6549652891
+2006	jam	Jamaica	na	North America	80	-0.6049645556
+2006	mex	Mexico	na	North America	27	0.8079426703
+2006	nic	Nicaragua	na	North America	91	-0.862806942
+2006	pan	Panama	na	North America	56	-0.0485953554
+2006	slv	El Salvador	na	North America	62	-0.2186515554
+2006	usa	United States	na	North America	9	1.5648769359
+2006	aus	Australia	oc	Oceania	57	-0.0599509312
+2006	nzl	New Zealand	oc	Oceania	38	0.4589836186
+2006	png	Papua New Guinea	oc	Oceania	109	-1.7004849198
+2006	arg	Argentina	sa	South America	48	0.1714655716
+2006	bol	Bolivia	sa	South America	93	-0.9272835192
+2006	bra	Brazil	sa	South America	34	0.5508959717
+2006	chl	Chile	sa	South America	68	-0.2976058023
+2006	col	Colombia	sa	South America	58	-0.1640880496
+2006	ecu	Ecuador	sa	South America	92	-0.9217488589
+2006	per	Peru	sa	South America	87	-0.6916306069
+2006	pry	Paraguay	sa	South America	78	-0.5673891051
+2006	ury	Uruguay	sa	South America	50	0.1481281841
+2006	ven	Venezuela	sa	South America	61	-0.2171421459
+2007	ago	Angola	af	Africa	113	-1.7169853045
+2007	bwa	Botswana	af	Africa	99	-0.8980585796
+2007	civ	Cote d\'Ivoire	af	Africa	96	-0.7542531095
+2007	cmr	Cameroon	af	Africa	107	-1.2620187056
+2007	cod	Democratic Republic of the Congo	af	Africa	111	-1.5384220761
+2007	cog	Republic of the Congo	af	Africa	114	-1.7897710778
+2007	dza	Algeria	af	Africa	108	-1.2755361175
+2007	egy	Egypt	af	Africa	74	-0.2393437273
+2007	gab	Gabon	af	Africa	110	-1.4494992335
+2007	gha	Ghana	af	Africa	102	-0.9566884006
+2007	gin	Guinea	af	Africa	115	-1.8175766398
+2007	ken	Kenya	af	Africa	75	-0.296278432
+2007	lby	Libya	af	Africa	101	-0.9458452506
+2007	mar	Morocco	af	Africa	89	-0.5011308564
+2007	moz	Mozambique	af	Africa	105	-1.1184002107
+2007	mrt	Mauritania	af	Africa	112	-1.6488147521
+2007	nam	Namibia	af	Africa	85	-0.4668874687
+2007	nga	Nigeria	af	Africa	118	-2.0796486668
+2007	sdn	Sudan	af	Africa	116	-1.9646886421
+2007	sen	Senegal	af	Africa	71	-0.189753287
+2007	tcd	Chad	af	Africa	120	-2.7497719992
+2007	tun	Tunisia	af	Africa	60	-0.0043936573
+2007	tza	Tanzania	af	Africa	97	-0.830073202
+2007	zaf	South Africa	af	Africa	49	0.2382696455
+2007	zmb	Zambia	af	Africa	93	-0.7351311493
+2007	zwe	Zimbabwe	af	Africa	80	-0.4398009266
+2007	are	United Arab Emirates	as	Asia	61	-0.0336202523
+2007	aze	Azerbaijan	as	Asia	90	-0.6687656099
+2007	bgd	Bangladesh	as	Asia	94	-0.7419610667
+2007	chn	China	as	Asia	28	0.7542006473
+2007	geo	Georgia	as	Asia	62	-0.0457180005
+2007	hkg	Hong Kong	as	Asia	32	0.6564731345
+2007	idn	Indonesia	as	Asia	64	-0.0581859808
+2007	ind	India	as	Asia	47	0.3211084075
+2007	irn	Iran	as	Asia	91	-0.7024444144
+2007	irq	Iraq	as	Asia	119	-2.2085487637
+2007	isr	Israel	as	Asia	21	1.0373212814
+2007	jor	Jordan	as	Asia	58	0.0258307172
+2007	jpn	Japan	as	Asia	1	2.1946498568
+2007	kaz	Kazakhstan	as	Asia	76	-0.3586420646
+2007	khm	Cambodia	as	Asia	104	-1.1105068476
+2007	kor	South Korea	as	Asia	13	1.371729792
+2007	kwt	Kuwait	as	Asia	88	-0.499848418
+2007	lbn	Lebanon	as	Asia	43	0.4128509288
+2007	lka	Sri Lanka	as	Asia	77	-0.3783826285
+2007	mmr	Myanmar	as	Asia	106	-1.2122147464
+2007	mng	Mongolia	as	Asia	100	-0.9264161913
+2007	mys	Malaysia	as	Asia	29	0.7106294666
+2007	omn	Oman	as	Asia	86	-0.4752082584
+2007	pak	Pakistan	as	Asia	81	-0.4439487716
+2007	phl	Philippines	as	Asia	50	0.2130583617
+2007	prk	North Korea	as	Asia	27	0.819159122
+2007	qat	Qatar	as	Asia	70	-0.170529769
+2007	sau	Saudi Arabia	as	Asia	56	0.0572997483
+2007	sgp	Singapore	as	Asia	9	1.4482161344
+2007	syr	Syria	as	Asia	78	-0.4179217115
+2007	tha	Thailand	as	Asia	36	0.6154819943
+2007	tkm	Turkmenistan	as	Asia	103	-1.011621487
+2007	tur	Turkey	as	Asia	42	0.4272130455
+2007	uzb	Uzbekistan	as	Asia	84	-0.4548999646
+2007	vnm	Vietnam	as	Asia	68	-0.159959346
+2007	\N	Chinese Taipei	as	Asia	4	1.6431877657
+2007	yem	Yemen	as	Asia	109	-1.3314827585
+2007	aut	Austria	eu	Europe	7	1.5603488084
+2007	bel	Belgium	eu	Europe	19	1.082008763
+2007	bgr	Bulgaria	eu	Europe	44	0.4064028387
+2007	bih	Bosnia and Herzegovina	eu	Europe	46	0.3741725335
+2007	blr	Belarus	eu	Europe	23	0.898693669
+2007	che	Switzerland	eu	Europe	3	1.7598617266
+2007	cze	Czechia	eu	Europe	12	1.4061458343
+2007	deu	Germany	eu	Europe	2	1.8126413357
+2007	dnk	Denmark	eu	Europe	20	1.0608421314
+2007	esp	Spain	eu	Europe	24	0.8794364487
+2007	fin	Finland	eu	Europe	6	1.5614589372
+2007	fra	France	eu	Europe	14	1.3018820103
+2007	gbr	United Kingdom	eu	Europe	8	1.5389148332
+2007	grc	Greece	eu	Europe	48	0.2571893722
+2007	hrv	Croatia	eu	Europe	31	0.6595989143
+2007	hun	Hungary	eu	Europe	16	1.2475928288
+2007	irl	Ireland	eu	Europe	17	1.1945524831
+2007	ita	Italy	eu	Europe	15	1.2710493132
+2007	ltu	Lithuania	eu	Europe	41	0.5136558338
+2007	mda	Moldova	eu	Europe	55	0.0930872409
+2007	mkd	North Macedonia	eu	Europe	65	-0.0636283153
+2007	nld	Netherlands	eu	Europe	22	0.9954653378
+2007	nor	Norway	eu	Europe	30	0.6875465396
+2007	pol	Poland	eu	Europe	25	0.8571411612
+2007	prt	Portugal	eu	Europe	37	0.5813083934
+2007	rou	Romania	eu	Europe	33	0.653366323
+2007	rus	Russia	eu	Europe	38	0.559499338
+2007	srb	Serbia	eu	Europe	39	0.5235159079
+2007	svk	Slovakia	eu	Europe	18	1.1050674411
+2007	svn	Slovenia	eu	Europe	11	1.4272446506
+2007	swe	Sweden	eu	Europe	5	1.5961915889
+2007	ukr	Ukraine	eu	Europe	40	0.5210885588
+2007	can	Canada	na	North America	35	0.6303098858
+2007	cri	Costa Rica	na	North America	54	0.1618239854
+2007	cub	Cuba	na	North America	57	0.0510194962
+2007	dom	Dominican Republic	na	North America	67	-0.0786699294
+2007	gtm	Guatemala	na	North America	69	-0.1705069512
+2007	hnd	Honduras	na	North America	82	-0.4442527724
+2007	jam	Jamaica	na	North America	79	-0.4271642393
+2007	mex	Mexico	na	North America	26	0.8502621411
+2007	nic	Nicaragua	na	North America	92	-0.7145893249
+2007	pan	Panama	na	North America	53	0.1775183876
+2007	slv	El Salvador	na	North America	66	-0.0668430566
+2007	usa	United States	na	North America	10	1.4406735717
+2007	aus	Australia	oc	Oceania	63	-0.0573113043
+2007	nzl	New Zealand	oc	Oceania	45	0.4004391511
+2007	png	Papua New Guinea	oc	Oceania	117	-1.9758842599
+2007	arg	Argentina	sa	South America	52	0.1997040622
+2007	bol	Bolivia	sa	South America	98	-0.8647068296
+2007	bra	Brazil	sa	South America	34	0.6355184951
+2007	chl	Chile	sa	South America	72	-0.2290315454
+2007	col	Colombia	sa	South America	59	0.0054392995
+2007	ecu	Ecuador	sa	South America	95	-0.7460682572
+2007	per	Peru	sa	South America	87	-0.4967981569
+2007	pry	Paraguay	sa	South America	83	-0.4483874123
+2007	ury	Uruguay	sa	South America	51	0.2077600673
+2007	ven	Venezuela	sa	South America	73	-0.2306788075
+2008	ago	Angola	af	Africa	120	-1.8883890814
+2008	bwa	Botswana	af	Africa	100	-0.8632704948
+2008	civ	Cote d\'Ivoire	af	Africa	99	-0.8039449887
+2008	cmr	Cameroon	af	Africa	107	-1.0975653332
+2008	cod	Democratic Republic of the Congo	af	Africa	111	-1.1976032189
+2008	cog	Republic of the Congo	af	Africa	115	-1.7623240333
+2008	dza	Algeria	af	Africa	113	-1.2833704876
+2008	egy	Egypt	af	Africa	69	-0.1152897599
+2008	gab	Gabon	af	Africa	114	-1.364797847
+2008	gha	Ghana	af	Africa	96	-0.7079082691
+2008	gin	Guinea	af	Africa	116	-1.7652795544
+2008	ken	Kenya	af	Africa	78	-0.2785251086
+2008	lby	Libya	af	Africa	110	-1.1828641734
+2008	mar	Morocco	af	Africa	84	-0.4043656029
+2008	mli	Mali	af	Africa	106	-1.0261739142
+2008	moz	Mozambique	af	Africa	105	-1.0246917445
+2008	mrt	Mauritania	af	Africa	119	-1.8767422964
+2008	nam	Namibia	af	Africa	87	-0.4859639783
+2008	nga	Nigeria	af	Africa	121	-1.9589970879
+2008	sdn	Sudan	af	Africa	117	-1.8113583273
+2008	sen	Senegal	af	Africa	77	-0.2632349171
+2008	tcd	Chad	af	Africa	123	-3.1778381288
+2008	tun	Tunisia	af	Africa	58	0.0681537099
+2008	tza	Tanzania	af	Africa	93	-0.6854298235
+2008	uga	Uganda	af	Africa	83	-0.4021975704
+2008	zaf	South Africa	af	Africa	51	0.2362203589
+2008	zmb	Zambia	af	Africa	94	-0.6898228659
+2008	zwe	Zimbabwe	af	Africa	75	-0.2555892773
+2008	are	United Arab Emirates	as	Asia	70	-0.1548772653
+2008	aze	Azerbaijan	as	Asia	109	-1.1693256533
+2008	bgd	Bangladesh	as	Asia	95	-0.6992696548
+2008	chn	China	as	Asia	25	0.8562713808
+2008	geo	Georgia	as	Asia	66	-0.0797842153
+2008	hkg	Hong Kong	as	Asia	28	0.7885742298
+2008	idn	Indonesia	as	Asia	61	0.008536853
+2008	ind	India	as	Asia	46	0.3914432909
+2008	irn	Iran	as	Asia	102	-0.9377568544
+2008	irq	Iraq	as	Asia	122	-2.398678187
+2008	isr	Israel	as	Asia	21	1.0337313843
+2008	jor	Jordan	as	Asia	60	0.0408506701
+2008	jpn	Japan	as	Asia	1	2.1486034419
+2008	kaz	Kazakhstan	as	Asia	90	-0.5596293861
+2008	khm	Cambodia	as	Asia	104	-0.9908110398
+2008	kor	South Korea	as	Asia	10	1.4408852818
+2008	kwt	Kuwait	as	Asia	98	-0.7911901607
+2008	lbn	Lebanon	as	Asia	47	0.3712240527
+2008	lka	Sri Lanka	as	Asia	76	-0.2557976696
+2008	mmr	Myanmar	as	Asia	108	-1.1588166487
+2008	mng	Mongolia	as	Asia	101	-0.9286621042
+2008	mys	Malaysia	as	Asia	31	0.7501475612
+2008	omn	Oman	as	Asia	89	-0.5186308798
+2008	pak	Pakistan	as	Asia	73	-0.2504043645
+2008	phl	Philippines	as	Asia	50	0.2605506965
+2008	prk	North Korea	as	Asia	29	0.770278375
+2008	qat	Qatar	as	Asia	80	-0.3135303911
+2008	sau	Saudi Arabia	as	Asia	65	-0.0608690821
+2008	sgp	Singapore	as	Asia	9	1.4920221729
+2008	syr	Syria	as	Asia	79	-0.2978263025
+2008	tha	Thailand	as	Asia	32	0.6982787934
+2008	tkm	Turkmenistan	as	Asia	103	-0.9701322647
+2008	tur	Turkey	as	Asia	41	0.4885097832
+2008	uzb	Uzbekistan	as	Asia	81	-0.3609208396
+2008	vnm	Vietnam	as	Asia	64	-0.0596314083
+2008	\N	Chinese Taipei	as	Asia	4	1.6521781677
+2008	yem	Yemen	as	Asia	112	-1.2335338305
+2008	alb	Albania	eu	Europe	57	0.1156256866
+2008	aut	Austria	eu	Europe	7	1.5336313751
+2008	bel	Belgium	eu	Europe	19	1.0773869681
+2008	bgr	Bulgaria	eu	Europe	43	0.4230464474
+2008	bih	Bosnia and Herzegovina	eu	Europe	44	0.4030161422
+2008	blr	Belarus	eu	Europe	26	0.8510532213
+2008	che	Switzerland	eu	Europe	3	1.7270832301
+2008	cze	Czechia	eu	Europe	13	1.4029146497
+2008	deu	Germany	eu	Europe	2	1.77725922
+2008	dnk	Denmark	eu	Europe	20	1.0478264293
+2008	esp	Spain	eu	Europe	27	0.8442584889
+2008	fin	Finland	eu	Europe	8	1.4939447673
+2008	fra	France	eu	Europe	14	1.3283005823
+2008	gbr	United Kingdom	eu	Europe	6	1.5601632352
+2008	grc	Greece	eu	Europe	49	0.2610160821
+2008	hrv	Croatia	eu	Europe	34	0.6376828168
+2008	hun	Hungary	eu	Europe	16	1.2793887815
+2008	irl	Ireland	eu	Europe	17	1.2244247156
+2008	ita	Italy	eu	Europe	15	1.2984986946
+2008	ltu	Lithuania	eu	Europe	37	0.5618121276
+2008	mda	Moldova	eu	Europe	56	0.1534015329
+2008	mkd	North Macedonia	eu	Europe	62	-0.0228412978
+2008	nld	Netherlands	eu	Europe	22	1.0015954748
+2008	nor	Norway	eu	Europe	33	0.6720662873
+2008	pol	Poland	eu	Europe	24	0.8606131674
+2008	prt	Portugal	eu	Europe	35	0.6005948341
+2008	rou	Romania	eu	Europe	30	0.7689306499
+2008	rus	Russia	eu	Europe	42	0.4257998688
+2008	srb	Serbia	eu	Europe	36	0.561916811
+2008	svk	Slovakia	eu	Europe	18	1.1239743389
+2008	svn	Slovenia	eu	Europe	11	1.4312522968
+2008	swe	Sweden	eu	Europe	5	1.5913408438
+2008	ukr	Ukraine	eu	Europe	40	0.4900619917
+2008	can	Canada	na	North America	38	0.5534934141
+2008	cri	Costa Rica	na	North America	54	0.191291724
+2008	cub	Cuba	na	North America	71	-0.1549606222
+2008	dom	Dominican Republic	na	North America	63	-0.0242707253
+2008	gtm	Guatemala	na	North America	67	-0.0876699939
+2008	hnd	Honduras	na	North America	86	-0.4260871595
+2008	jam	Jamaica	na	North America	74	-0.2553767142
+2008	mex	Mexico	na	North America	23	0.9110607655
+2008	nic	Nicaragua	na	North America	91	-0.6572738178
+2008	pan	Panama	na	North America	45	0.3954836857
+2008	slv	El Salvador	na	North America	59	0.0680420879
+2008	usa	United States	na	North America	12	1.4128002095
+2008	aus	Australia	oc	Oceania	68	-0.0974942229
+2008	nzl	New Zealand	oc	Oceania	48	0.3680798115
+2008	png	Papua New Guinea	oc	Oceania	118	-1.8583677188
+2008	arg	Argentina	sa	South America	52	0.2326574896
+2008	bol	Bolivia	sa	South America	92	-0.6699290443
+2008	bra	Brazil	sa	South America	39	0.5318395527
+2008	chl	Chile	sa	South America	72	-0.2231580162
+2008	col	Colombia	sa	South America	55	0.1612200075
+2008	ecu	Ecuador	sa	South America	97	-0.7580810428
+2008	per	Peru	sa	South America	85	-0.4114933709
+2008	pry	Paraguay	sa	South America	82	-0.368600647
+2008	ury	Uruguay	sa	South America	53	0.2269416954
+2008	ven	Venezuela	sa	South America	88	-0.5000319225
+2009	ago	Angola	af	Africa	113	-1.4464614608
+2009	bwa	Botswana	af	Africa	90	-0.5721517045
+2009	civ	Cote d\'Ivoire	af	Africa	101	-0.9024534432
+2009	cmr	Cameroon	af	Africa	106	-0.9989019861
+2009	cod	Democratic Republic of the Congo	af	Africa	115	-1.452656561
+2009	cog	Republic of the Congo	af	Africa	116	-1.53552095
+2009	dza	Algeria	af	Africa	114	-1.448411646
+2009	egy	Egypt	af	Africa	66	-0.1326388643
+2009	gab	Gabon	af	Africa	109	-1.2052810547
+2009	gha	Ghana	af	Africa	98	-0.8042606573
+2009	gin	Guinea	af	Africa	119	-1.8347439962
+2009	ken	Kenya	af	Africa	74	-0.2791996796
+2009	lby	Libya	af	Africa	111	-1.2460214602
+2009	mar	Morocco	af	Africa	82	-0.4227048939
+2009	moz	Mozambique	af	Africa	107	-1.0331697911
+2009	mrt	Mauritania	af	Africa	117	-1.7659800433
+2009	nam	Namibia	af	Africa	83	-0.4450712618
+2009	nga	Nigeria	af	Africa	121	-2.0310710609
+2009	sdn	Sudan	af	Africa	120	-2.0062510305
+2009	sen	Senegal	af	Africa	79	-0.3696864338
+2009	tcd	Chad	af	Africa	123	-2.984887842
+2009	tgo	Togo	af	Africa	86	-0.4917671638
+2009	tun	Tunisia	af	Africa	58	0.077052821
+2009	tza	Tanzania	af	Africa	94	-0.7002776848
+2009	uga	Uganda	af	Africa	87	-0.5174590582
+2009	zaf	South Africa	af	Africa	54	0.184643424
+2009	zmb	Zambia	af	Africa	96	-0.7479139223
+2009	zwe	Zimbabwe	af	Africa	78	-0.350318189
+2009	are	United Arab Emirates	as	Asia	70	-0.2218787758
+2009	aze	Azerbaijan	as	Asia	112	-1.2936964918
+2009	bgd	Bangladesh	as	Asia	95	-0.7293392051
+2009	chn	China	as	Asia	23	0.9235670493
+2009	geo	Georgia	as	Asia	63	-0.0449338902
+2009	hkg	Hong Kong	as	Asia	28	0.8479236731
+2009	idn	Indonesia	as	Asia	61	0.0410834276
+2009	ind	India	as	Asia	49	0.3289479551
+2009	irn	Iran	as	Asia	108	-1.0921837738
+2009	irq	Iraq	as	Asia	122	-2.181818538
+2009	isr	Israel	as	Asia	21	1.0284240563
+2009	jor	Jordan	as	Asia	59	0.0767256124
+2009	jpn	Japan	as	Asia	1	2.1513339339
+2009	kaz	Kazakhstan	as	Asia	93	-0.6594990847
+2009	khm	Cambodia	as	Asia	104	-0.9819448328
+2009	kor	South Korea	as	Asia	10	1.506904435
+2009	kwt	Kuwait	as	Asia	100	-0.8930497197
+2009	lbn	Lebanon	as	Asia	46	0.3648653933
+2009	lka	Sri Lanka	as	Asia	73	-0.2777579468
+2009	mmr	Myanmar	as	Asia	110	-1.2210023362
+2009	mng	Mongolia	as	Asia	102	-0.9226651126
+2009	mys	Malaysia	as	Asia	24	0.8960006097
+2009	omn	Oman	as	Asia	91	-0.6184953349
+2009	pak	Pakistan	as	Asia	75	-0.2850122453
+2009	phl	Philippines	as	Asia	52	0.2215896282
+2009	prk	North Korea	as	Asia	31	0.7777850405
+2009	qat	Qatar	as	Asia	80	-0.3955439784
+2009	sau	Saudi Arabia	as	Asia	68	-0.202647432
+2009	sgp	Singapore	as	Asia	6	1.6081285866
+2009	syr	Syria	as	Asia	72	-0.2741314282
+2009	tha	Thailand	as	Asia	32	0.7515410244
+2009	tkm	Turkmenistan	as	Asia	103	-0.9435832008
+2009	tur	Turkey	as	Asia	38	0.490171615
+2009	uzb	Uzbekistan	as	Asia	88	-0.5352920374
+2009	vnm	Vietnam	as	Asia	64	-0.0756928362
+2009	\N	Chinese Taipei	as	Asia	4	1.7256148741
+2009	yem	Yemen	as	Asia	105	-0.9980614457
+2009	alb	Albania	eu	Europe	39	0.4901274504
+2009	aut	Austria	eu	Europe	9	1.53644745
+2009	bel	Belgium	eu	Europe	19	1.1005624319
+2009	bgr	Bulgaria	eu	Europe	45	0.378369488
+2009	bih	Bosnia and Herzegovina	eu	Europe	44	0.4184350916
+2009	blr	Belarus	eu	Europe	27	0.8548622442
+2009	che	Switzerland	eu	Europe	3	1.7730982132
+2009	cze	Czechia	eu	Europe	12	1.4370928972
+2009	deu	Germany	eu	Europe	2	1.8094605077
+2009	dnk	Denmark	eu	Europe	20	1.0714368668
+2009	esp	Spain	eu	Europe	29	0.826674001
+2009	fin	Finland	eu	Europe	8	1.5557761024
+2009	fra	France	eu	Europe	14	1.3435475506
+2009	gbr	United Kingdom	eu	Europe	7	1.6069354203
+2009	grc	Greece	eu	Europe	50	0.2789945283
+2009	hrv	Croatia	eu	Europe	33	0.6755941677
+2009	hun	Hungary	eu	Europe	16	1.2820107754
+2009	irl	Ireland	eu	Europe	17	1.2183194686
+2009	ita	Italy	eu	Europe	15	1.2858608444
+2009	ltu	Lithuania	eu	Europe	36	0.537654928
+2009	mda	Moldova	eu	Europe	57	0.1525559421
+2009	mkd	North Macedonia	eu	Europe	62	-0.0023643289
+2009	nld	Netherlands	eu	Europe	22	0.9702037465
+2009	nor	Norway	eu	Europe	34	0.6266999906
+2009	pol	Poland	eu	Europe	26	0.8664441927
+2009	prt	Portugal	eu	Europe	35	0.5727568245
+2009	rou	Romania	eu	Europe	30	0.8026193675
+2009	rus	Russia	eu	Europe	48	0.331167943
+2009	srb	Serbia	eu	Europe	41	0.467071766
+2009	svk	Slovakia	eu	Europe	18	1.1519541657
+2009	svn	Slovenia	eu	Europe	11	1.4413903993
+2009	swe	Sweden	eu	Europe	5	1.6096401293
+2009	ukr	Ukraine	eu	Europe	42	0.4615265057
+2009	can	Canada	na	North America	37	0.4959612015
+2009	cri	Costa Rica	na	North America	56	0.157972576
+2009	cub	Cuba	na	North America	76	-0.3038487388
+2009	dom	Dominican Republic	na	North America	65	-0.0831535007
+2009	gtm	Guatemala	na	North America	67	-0.1610169968
+2009	hnd	Honduras	na	North America	81	-0.4115190904
+2009	jam	Jamaica	na	North America	71	-0.2344937873
+2009	mex	Mexico	na	North America	25	0.8941524707
+2009	nic	Nicaragua	na	North America	92	-0.6583375811
+2009	pan	Panama	na	North America	43	0.460419188
+2009	slv	El Salvador	na	North America	60	0.0576348846
+2009	usa	United States	na	North America	13	1.4281681581
+2009	aus	Australia	oc	Oceania	69	-0.2094223304
+2009	nzl	New Zealand	oc	Oceania	47	0.3394822429
+2009	png	Papua New Guinea	oc	Oceania	118	-1.8317520307
+2009	arg	Argentina	sa	South America	51	0.2290383144
+2009	bol	Bolivia	sa	South America	97	-0.7751918342
+2009	bra	Brazil	sa	South America	40	0.4708692218
+2009	chl	Chile	sa	South America	77	-0.3117985197
+2009	col	Colombia	sa	South America	55	0.1619695022
+2009	ecu	Ecuador	sa	South America	99	-0.8190000526
+2009	per	Peru	sa	South America	85	-0.4626243669
+2009	pry	Paraguay	sa	South America	84	-0.4527129995
+2009	ury	Uruguay	sa	South America	53	0.2079827522
+2009	ven	Venezuela	sa	South America	89	-0.5505174273
+2010	ago	Angola	af	Africa	111	-1.1983092799
+2010	bwa	Botswana	af	Africa	77	-0.397493305
+2010	civ	Cote d\'Ivoire	af	Africa	109	-1.1182921747
+2010	cmr	Cameroon	af	Africa	102	-0.9159888951
+2010	cod	Democratic Republic of the Congo	af	Africa	119	-1.7311809078
+2010	cog	Republic of the Congo	af	Africa	115	-1.4976003836
+2010	dza	Algeria	af	Africa	116	-1.5505180427
+2010	egy	Egypt	af	Africa	68	-0.2316098923
+2010	gab	Gabon	af	Africa	117	-1.5901072641
+2010	gha	Ghana	af	Africa	99	-0.8465217745
+2010	gin	Guinea	af	Africa	118	-1.5984268198
+2010	ken	Kenya	af	Africa	75	-0.3540078325
+2010	lby	Libya	af	Africa	113	-1.2812708522
+2010	mar	Morocco	af	Africa	83	-0.493836378
+2010	moz	Mozambique	af	Africa	110	-1.1810402876
+2010	mrt	Mauritania	af	Africa	120	-1.776924769
+2010	nam	Namibia	af	Africa	90	-0.5815789745
+2010	nga	Nigeria	af	Africa	123	-1.9137874141
+2010	sdn	Sudan	af	Africa	122	-1.909502601
+2010	sen	Senegal	af	Africa	85	-0.5179325272
+2010	tcd	Chad	af	Africa	82	-0.4868896235
+2010	tgo	Togo	af	Africa	92	-0.654617952
+2010	tun	Tunisia	af	Africa	55	0.1473427452
+2010	tza	Tanzania	af	Africa	94	-0.7471377273
+2010	uga	Uganda	af	Africa	80	-0.4648590058
+2010	zaf	South Africa	af	Africa	56	0.1424898641
+2010	zmb	Zambia	af	Africa	96	-0.8452370093
+2010	zwe	Zimbabwe	af	Africa	84	-0.4939455003
+2010	are	United Arab Emirates	as	Asia	67	-0.206935335
+2010	aze	Azerbaijan	as	Asia	112	-1.2729308924
+2010	bgd	Bangladesh	as	Asia	105	-0.9610169441
+2010	chn	China	as	Asia	23	0.97989371
+2010	geo	Georgia	as	Asia	69	-0.2373118977
+2010	hkg	Hong Kong	as	Asia	25	0.9303394813
+2010	idn	Indonesia	as	Asia	64	-0.0769084222
+2010	ind	India	as	Asia	46	0.3267908721
+2010	irn	Iran	as	Asia	106	-1.0109895882
+2010	irq	Iraq	as	Asia	124	-2.2878101209
+2010	isr	Israel	as	Asia	21	1.0768073907
+2010	jor	Jordan	as	Asia	59	0.0181616064
+2010	jpn	Japan	as	Asia	1	2.3479494335
+2010	kaz	Kazakhstan	as	Asia	98	-0.8454870272
+2010	khm	Cambodia	as	Asia	107	-1.0261939488
+2010	kor	South Korea	as	Asia	8	1.5944398326
+2010	kwt	Kuwait	as	Asia	70	-0.2478516701
+2010	lao	Laos	as	Asia	103	-0.9231290134
+2010	lbn	Lebanon	as	Asia	49	0.2723357709
+2010	lka	Sri Lanka	as	Asia	79	-0.4380118145
+2010	mmr	Myanmar	as	Asia	114	-1.3612217642
+2010	mng	Mongolia	as	Asia	104	-0.9385996101
+2010	mys	Malaysia	as	Asia	24	0.9766022341
+2010	omn	Oman	as	Asia	88	-0.5428651013
+2010	pak	Pakistan	as	Asia	76	-0.3657801481
+2010	phl	Philippines	as	Asia	47	0.2931600172
+2010	prk	North Korea	as	Asia	29	0.8256602835
+2010	qat	Qatar	as	Asia	93	-0.6970927354
+2010	sau	Saudi Arabia	as	Asia	60	0.0090523505
+2010	sgp	Singapore	as	Asia	5	1.7699958008
+2010	syr	Syria	as	Asia	73	-0.3193090792
+2010	tha	Thailand	as	Asia	32	0.7993109731
+2010	tkm	Turkmenistan	as	Asia	101	-0.8902081673
+2010	tur	Turkey	as	Asia	39	0.4557346442
+2010	uzb	Uzbekistan	as	Asia	89	-0.5689201291
+2010	vnm	Vietnam	as	Asia	62	-0.0316576196
+2010	\N	Chinese Taipei	as	Asia	4	1.8150237849
+2010	yem	Yemen	as	Asia	108	-1.0887029082
+2010	alb	Albania	eu	Europe	43	0.4108755575
+2010	aut	Austria	eu	Europe	9	1.586900144
+2010	bel	Belgium	eu	Europe	19	1.1475177215
+2010	bgr	Bulgaria	eu	Europe	42	0.4427614177
+2010	bih	Bosnia and Herzegovina	eu	Europe	45	0.3412952045
+2010	blr	Belarus	eu	Europe	28	0.830060159
+2010	che	Switzerland	eu	Europe	2	1.9338717572
+2010	cze	Czechia	eu	Europe	12	1.5230851095
+2010	deu	Germany	eu	Europe	3	1.8478581106
+2010	dnk	Denmark	eu	Europe	20	1.0857370225
+2010	esp	Spain	eu	Europe	30	0.8066181231
+2010	fin	Finland	eu	Europe	10	1.5635228784
+2010	fra	France	eu	Europe	14	1.391138815
+2010	gbr	United Kingdom	eu	Europe	6	1.6753874949
+2010	grc	Greece	eu	Europe	52	0.2335865807
+2010	hrv	Croatia	eu	Europe	33	0.6770295173
+2010	hun	Hungary	eu	Europe	17	1.2936706045
+2010	irl	Ireland	eu	Europe	15	1.3792660244
+2010	ita	Italy	eu	Europe	16	1.3460384015
+2010	ltu	Lithuania	eu	Europe	37	0.4651841424
+2010	mda	Moldova	eu	Europe	57	0.0752855613
+2010	mkd	North Macedonia	eu	Europe	63	-0.0401777993
+2010	nld	Netherlands	eu	Europe	22	1.0254107001
+2010	nor	Norway	eu	Europe	34	0.6507746705
+2010	pol	Poland	eu	Europe	27	0.8681460031
+2010	prt	Portugal	eu	Europe	35	0.5372160191
+2010	rou	Romania	eu	Europe	31	0.8033484046
+2010	rus	Russia	eu	Europe	48	0.2780322768
+2010	srb	Serbia	eu	Europe	41	0.4532178378
+2010	svk	Slovakia	eu	Europe	18	1.1545260363
+2010	svn	Slovenia	eu	Europe	13	1.5161676803
+2010	swe	Sweden	eu	Europe	7	1.6683621716
+2010	ukr	Ukraine	eu	Europe	44	0.3886239119
+2010	can	Canada	na	North America	40	0.4545608459
+2010	cri	Costa Rica	na	North America	58	0.0692768845
+2010	cub	Cuba	na	North America	65	-0.1740153317
+2010	dom	Dominican Republic	na	North America	66	-0.1966550861
+2010	gtm	Guatemala	na	North America	71	-0.2592607132
+2010	hnd	Honduras	na	North America	78	-0.419519344
+2010	jam	Jamaica	na	North America	72	-0.2660443799
+2010	mex	Mexico	na	North America	26	0.8730234876
+2010	nic	Nicaragua	na	North America	95	-0.8135691807
+2010	pan	Panama	na	North America	38	0.4646664072
+2010	slv	El Salvador	na	North America	61	0.0058574086
+2010	usa	United States	na	North America	11	1.5390618572
+2010	aus	Australia	oc	Oceania	74	-0.3244598432
+2010	nzl	New Zealand	oc	Oceania	50	0.2710952359
+2010	png	Papua New Guinea	oc	Oceania	121	-1.8485962803
+2010	arg	Argentina	sa	South America	53	0.2108242513
+2010	bol	Bolivia	sa	South America	97	-0.8453588107
+2010	bra	Brazil	sa	South America	36	0.4885072032
+2010	chl	Chile	sa	South America	81	-0.4750202771
+2010	col	Colombia	sa	South America	54	0.1489833749
+2010	ecu	Ecuador	sa	South America	100	-0.8746220949
+2010	per	Peru	sa	South America	91	-0.6126573654
+2010	pry	Paraguay	sa	South America	87	-0.5428261403
+2010	ury	Uruguay	sa	South America	51	0.2364151982
+2010	ven	Venezuela	sa	South America	86	-0.5335452301
+2011	ago	Angola	af	Africa	100	-0.8659159173
+2011	bfa	Burkina Faso	af	Africa	121	-1.4425008879
+2011	bwa	Botswana	af	Africa	84	-0.4951708712
+2011	civ	Cote d\'Ivoire	af	Africa	102	-0.8957497354
+2011	cmr	Cameroon	af	Africa	98	-0.8126509518
+2011	cod	Democratic Republic of the Congo	af	Africa	122	-1.4965188194
+2011	cog	Republic of the Congo	af	Africa	123	-1.5450451913
+2011	dza	Algeria	af	Africa	119	-1.354327287
+2011	egy	Egypt	af	Africa	71	-0.221805061
+2011	eth	Ethiopia	af	Africa	105	-0.9318166427
+2011	gab	Gabon	af	Africa	118	-1.294944012
+2011	gha	Ghana	af	Africa	94	-0.7281509953
+2011	gin	Guinea	af	Africa	124	-1.6388056043
+2011	ken	Kenya	af	Africa	77	-0.4251468067
+2011	lby	Libya	af	Africa	117	-1.2598912555
+2011	mar	Morocco	af	Africa	82	-0.4656716905
+2011	mli	Mali	af	Africa	115	-1.2179291951
+2011	moz	Mozambique	af	Africa	114	-1.2149151753
+2011	mrt	Mauritania	af	Africa	116	-1.2316485087
+2011	nam	Namibia	af	Africa	90	-0.5807059303
+2011	nga	Nigeria	af	Africa	126	-1.9123704822
+2011	sdn	Sudan	af	Africa	128	-2.1214554062
+2011	sen	Senegal	af	Africa	83	-0.491680226
+2011	tcd	Chad	af	Africa	66	-0.0814482691
+2011	tgo	Togo	af	Africa	93	-0.7180474239
+2011	tun	Tunisia	af	Africa	51	0.2268404756
+2011	tza	Tanzania	af	Africa	101	-0.8877852255
+2011	uga	Uganda	af	Africa	86	-0.52590905
+2011	zaf	South Africa	af	Africa	55	0.1589695058
+2011	zmb	Zambia	af	Africa	112	-1.0866228109
+2011	zwe	Zimbabwe	af	Africa	106	-0.9393190196
+2011	are	United Arab Emirates	as	Asia	64	-0.0434164509
+2011	aze	Azerbaijan	as	Asia	96	-0.7918591766
+2011	bgd	Bangladesh	as	Asia	107	-0.970910976
+2011	chn	China	as	Asia	22	1.0976994083
+2011	geo	Georgia	as	Asia	70	-0.2047562908
+2011	hkg	Hong Kong	as	Asia	23	1.0916162598
+2011	idn	Indonesia	as	Asia	65	-0.0680961463
+2011	ind	India	as	Asia	49	0.2633987763
+2011	irn	Iran	as	Asia	95	-0.7844300444
+2011	irq	Iraq	as	Asia	127	-2.0225782416
+2011	isr	Israel	as	Asia	24	1.0815173317
+2011	jor	Jordan	as	Asia	59	0.056572175
+2011	jpn	Japan	as	Asia	1	2.382169457
+2011	kaz	Kazakhstan	as	Asia	97	-0.8119174053
+2011	kgz	Kyrgyzstan	as	Asia	80	-0.4543780065
+2011	khm	Cambodia	as	Asia	104	-0.9291177678
+2011	kor	South Korea	as	Asia	10	1.6007770393
+2011	kwt	Kuwait	as	Asia	61	0.0338540217
+2011	lao	Laos	as	Asia	110	-1.015536919
+2011	lbn	Lebanon	as	Asia	46	0.3258570587
+2011	lka	Sri Lanka	as	Asia	73	-0.3278611018
+2011	mmr	Myanmar	as	Asia	120	-1.3930684319
+2011	mng	Mongolia	as	Asia	113	-1.1610600866
+2011	mys	Malaysia	as	Asia	20	1.1380098256
+2011	omn	Oman	as	Asia	79	-0.4528419248
+2011	pak	Pakistan	as	Asia	88	-0.5549407558
+2011	phl	Philippines	as	Asia	44	0.399353726
+2011	prk	North Korea	as	Asia	34	0.6320334586
+2011	qat	Qatar	as	Asia	85	-0.507260554
+2011	sau	Saudi Arabia	as	Asia	52	0.2116318348
+2011	sgp	Singapore	as	Asia	5	1.8071890471
+2011	syr	Syria	as	Asia	76	-0.4211970634
+2011	tha	Thailand	as	Asia	29	0.8610319276
+2011	tkm	Turkmenistan	as	Asia	109	-1.0138933982
+2011	tur	Turkey	as	Asia	40	0.4462897556
+2011	uzb	Uzbekistan	as	Asia	91	-0.632397442
+2011	vnm	Vietnam	as	Asia	60	0.0435556997
+2011	\N	Chinese Taipei	as	Asia	3	1.915198179
+2011	yem	Yemen	as	Asia	111	-1.0734871328
+2011	alb	Albania	eu	Europe	54	0.1820040039
+2011	aut	Austria	eu	Europe	9	1.6255732803
+2011	bel	Belgium	eu	Europe	18	1.1704106185
+2011	bgr	Bulgaria	eu	Europe	41	0.434016853
+2011	bih	Bosnia and Herzegovina	eu	Europe	43	0.4003739279
+2011	blr	Belarus	eu	Europe	28	0.8958939628
+2011	che	Switzerland	eu	Europe	2	2.0734291289
+2011	cze	Czechia	eu	Europe	8	1.6376116605
+2011	deu	Germany	eu	Europe	4	1.905945787
+2011	dnk	Denmark	eu	Europe	21	1.1086058911
+2011	esp	Spain	eu	Europe	30	0.8369291497
+2011	fin	Finland	eu	Europe	12	1.5417294567
+2011	fra	France	eu	Europe	14	1.4308621871
+2011	gbr	United Kingdom	eu	Europe	6	1.679811898
+2011	grc	Greece	eu	Europe	53	0.1928446591
+2011	hrv	Croatia	eu	Europe	31	0.7971719284
+2011	hun	Hungary	eu	Europe	16	1.3445741925
+2011	irl	Ireland	eu	Europe	17	1.3258161333
+2011	ita	Italy	eu	Europe	15	1.3721066841
+2011	ltu	Lithuania	eu	Europe	36	0.5832380135
+2011	mda	Moldova	eu	Europe	62	0.0195440079
+2011	mkd	North Macedonia	eu	Europe	68	-0.1095759429
+2011	nld	Netherlands	eu	Europe	25	1.0605109424
+2011	nor	Norway	eu	Europe	35	0.5937949595
+2011	pol	Poland	eu	Europe	27	0.9403223952
+2011	prt	Portugal	eu	Europe	37	0.5732426184
+2011	rou	Romania	eu	Europe	32	0.7711604769
+2011	rus	Russia	eu	Europe	47	0.2883010914
+2011	srb	Serbia	eu	Europe	42	0.4264348311
+2011	svk	Slovakia	eu	Europe	19	1.1683819612
+2011	svn	Slovenia	eu	Europe	11	1.5635943443
+2011	swe	Sweden	eu	Europe	7	1.6512379227
+2011	ukr	Ukraine	eu	Europe	39	0.4472635926
+2011	can	Canada	na	North America	38	0.5555030115
+2011	cri	Costa Rica	na	North America	58	0.0801824816
+2011	cub	Cuba	na	North America	74	-0.3378933239
+2011	dom	Dominican Republic	na	North America	69	-0.1207571029
+2011	gtm	Guatemala	na	North America	72	-0.2664630959
+2011	hnd	Honduras	na	North America	81	-0.4577438597
+2011	jam	Jamaica	na	North America	67	-0.1091265918
+2011	mex	Mexico	na	North America	26	1.0569262716
+2011	nic	Nicaragua	na	North America	103	-0.9227686719
+2011	pan	Panama	na	North America	33	0.716468181
+2011	slv	El Salvador	na	North America	63	0.0112868989
+2011	usa	United States	na	North America	13	1.5153323122
+2011	aus	Australia	oc	Oceania	78	-0.4438446108
+2011	nzl	New Zealand	oc	Oceania	48	0.2751948669
+2011	png	Papua New Guinea	oc	Oceania	125	-1.6833640034
+2011	arg	Argentina	sa	South America	56	0.1431980626
+2011	bol	Bolivia	sa	South America	108	-0.9863117714
+2011	bra	Brazil	sa	South America	45	0.3954656039
+2011	chl	Chile	sa	South America	75	-0.3580285484
+2011	col	Colombia	sa	South America	57	0.1204107592
+2011	ecu	Ecuador	sa	South America	92	-0.6645084942
+2011	per	Peru	sa	South America	89	-0.5783917954
+2011	pry	Paraguay	sa	South America	87	-0.5516806057
+2011	ury	Uruguay	sa	South America	50	0.2557813556
+2011	ven	Venezuela	sa	South America	99	-0.8326411409
+2012	ago	Angola	af	Africa	119	-1.390885854
+2012	bfa	Burkina Faso	af	Africa	118	-1.3701690629
+2012	bwa	Botswana	af	Africa	87	-0.5318123275
+2012	civ	Cote d\'Ivoire	af	Africa	106	-0.9443297953
+2012	cmr	Cameroon	af	Africa	107	-0.9516041929
+2012	cod	Democratic Republic of the Congo	af	Africa	112	-1.1658579878
+2012	cog	Republic of the Congo	af	Africa	117	-1.3651983399
+2012	dza	Algeria	af	Africa	125	-1.7167006277
+2012	egy	Egypt	af	Africa	71	-0.2716106543
+2012	eth	Ethiopia	af	Africa	103	-0.9015577218
+2012	gab	Gabon	af	Africa	120	-1.3923229095
+2012	gha	Ghana	af	Africa	99	-0.8131796696
+2012	gin	Guinea	af	Africa	127	-1.8069902133
+2012	ken	Kenya	af	Africa	78	-0.4217654184
+2012	lby	Libya	af	Africa	121	-1.4320092492
+2012	mar	Morocco	af	Africa	86	-0.5049487461
+2012	mli	Mali	af	Africa	111	-1.1251799204
+2012	moz	Mozambique	af	Africa	115	-1.3195767604
+2012	mrt	Mauritania	af	Africa	123	-1.5299716933
+2012	nam	Namibia	af	Africa	79	-0.4219403354
+2012	nga	Nigeria	af	Africa	126	-1.7858715458
+2012	sdn	Sudan	af	Africa	128	-1.9254763331
+2012	sen	Senegal	af	Africa	85	-0.4966162376
+2012	tcd	Chad	af	Africa	97	-0.789032167
+2012	tgo	Togo	af	Africa	98	-0.808749822
+2012	tun	Tunisia	af	Africa	55	0.132233482
+2012	tza	Tanzania	af	Africa	96	-0.7841503104
+2012	uga	Uganda	af	Africa	82	-0.4827891968
+2012	zaf	South Africa	af	Africa	50	0.2332589529
+2012	zmb	Zambia	af	Africa	93	-0.6127301011
+2012	zwe	Zimbabwe	af	Africa	108	-0.9693778816
+2012	are	United Arab Emirates	as	Asia	61	-0.0001499395
+2012	aze	Azerbaijan	as	Asia	101	-0.8662858438
+2012	bgd	Bangladesh	as	Asia	109	-1.0037830233
+2012	chn	China	as	Asia	20	1.1427226671
+2012	geo	Georgia	as	Asia	68	-0.1736180318
+2012	hkg	Hong Kong	as	Asia	23	1.1060500091
+2012	idn	Indonesia	as	Asia	63	-0.0213720327
+2012	ind	India	as	Asia	46	0.3201436292
+2012	irn	Iran	as	Asia	95	-0.7380188207
+2012	irq	Iraq	as	Asia	122	-1.5209250921
+2012	isr	Israel	as	Asia	19	1.1902145233
+2012	jor	Jordan	as	Asia	60	0.0501769481
+2012	jpn	Japan	as	Asia	1	2.4274760524
+2012	kaz	Kazakhstan	as	Asia	88	-0.543467249
+2012	kgz	Kyrgyzstan	as	Asia	74	-0.3679828362
+2012	khm	Cambodia	as	Asia	104	-0.9205134072
+2012	kor	South Korea	as	Asia	6	1.7075801018
+2012	kwt	Kuwait	as	Asia	66	-0.1087761905
+2012	lao	Laos	as	Asia	105	-0.932400703
+2012	lbn	Lebanon	as	Asia	49	0.2524017417
+2012	lka	Sri Lanka	as	Asia	76	-0.3869619819
+2012	mmr	Myanmar	as	Asia	114	-1.3089399597
+2012	mng	Mongolia	as	Asia	110	-1.1096313406
+2012	mys	Malaysia	as	Asia	22	1.1162604871
+2012	omn	Oman	as	Asia	83	-0.485010446
+2012	pak	Pakistan	as	Asia	92	-0.6053471941
+2012	phl	Philippines	as	Asia	43	0.4255098472
+2012	prk	North Korea	as	Asia	44	0.3774689985
+2012	qat	Qatar	as	Asia	84	-0.4925869092
+2012	sau	Saudi Arabia	as	Asia	57	0.1113949496
+2012	sgp	Singapore	as	Asia	5	1.9013726208
+2012	syr	Syria	as	Asia	75	-0.3838075555
+2012	tha	Thailand	as	Asia	28	0.9430058155
+2012	tkm	Turkmenistan	as	Asia	124	-1.5312870081
+2012	tur	Turkey	as	Asia	40	0.4582191871
+2012	uzb	Uzbekistan	as	Asia	94	-0.6442347414
+2012	vnm	Vietnam	as	Asia	58	0.0921868146
+2012	\N	Chinese Taipei	as	Asia	3	1.9631918959
+2012	yem	Yemen	as	Asia	113	-1.1775895825
+2012	alb	Albania	eu	Europe	77	-0.4159305611
+2012	aut	Austria	eu	Europe	10	1.583420848
+2012	bel	Belgium	eu	Europe	18	1.2044829146
+2012	bgr	Bulgaria	eu	Europe	39	0.4583564195
+2012	bih	Bosnia and Herzegovina	eu	Europe	45	0.3224436537
+2012	blr	Belarus	eu	Europe	30	0.8193004363
+2012	che	Switzerland	eu	Europe	2	2.148666564
+2012	cze	Czechia	eu	Europe	9	1.6173378748
+2012	deu	Germany	eu	Europe	4	1.9193798532
+2012	dnk	Denmark	eu	Europe	24	1.0786520427
+2012	esp	Spain	eu	Europe	31	0.7994340676
+2012	fin	Finland	eu	Europe	13	1.4959041892
+2012	fra	France	eu	Europe	14	1.3989222779
+2012	gbr	United Kingdom	eu	Europe	7	1.682226424
+2012	grc	Greece	eu	Europe	56	0.1202340287
+2012	hrv	Croatia	eu	Europe	29	0.8243959471
+2012	hun	Hungary	eu	Europe	16	1.3725254629
+2012	irl	Ireland	eu	Europe	15	1.3929697093
+2012	ita	Italy	eu	Europe	17	1.3276576839
+2012	ltu	Lithuania	eu	Europe	33	0.6660054718
+2012	mda	Moldova	eu	Europe	64	-0.057182746
+2012	mkd	North Macedonia	eu	Europe	65	-0.0791325478
+2012	nld	Netherlands	eu	Europe	25	1.0690654909
+2012	nor	Norway	eu	Europe	34	0.6532350039
+2012	pol	Poland	eu	Europe	27	0.9510360931
+2012	prt	Portugal	eu	Europe	36	0.5679533888
+2012	rou	Romania	eu	Europe	35	0.6492585654
+2012	rus	Russia	eu	Europe	47	0.3041473476
+2012	srb	Serbia	eu	Europe	41	0.4537247686
+2012	svk	Slovakia	eu	Europe	21	1.134480222
+2012	svn	Slovenia	eu	Europe	12	1.5111404443
+2012	swe	Sweden	eu	Europe	8	1.6653494937
+2012	ukr	Ukraine	eu	Europe	42	0.4378090249
+2012	can	Canada	na	North America	37	0.5615832733
+2012	cri	Costa Rica	na	North America	51	0.1776556811
+2012	cub	Cuba	na	North America	59	0.0505887872
+2012	dom	Dominican Republic	na	North America	67	-0.1225085057
+2012	gtm	Guatemala	na	North America	72	-0.3090659997
+2012	hnd	Honduras	na	North America	80	-0.4629910507
+2012	jam	Jamaica	na	North America	69	-0.209175883
+2012	mex	Mexico	na	North America	26	1.0099378649
+2012	nic	Nicaragua	na	North America	100	-0.8452420664
+2012	pan	Panama	na	North America	32	0.7561754779
+2012	slv	El Salvador	na	North America	62	-0.0198148188
+2012	usa	United States	na	North America	11	1.5462143363
+2012	aus	Australia	oc	Oceania	73	-0.3263659327
+2012	nzl	New Zealand	oc	Oceania	48	0.265666532
+2012	png	Papua New Guinea	oc	Oceania	116	-1.3322517305
+2012	arg	Argentina	sa	South America	54	0.1507041124
+2012	bol	Bolivia	sa	South America	91	-0.5918070756
+2012	bra	Brazil	sa	South America	38	0.4716854506
+2012	chl	Chile	sa	South America	70	-0.2651836267
+2012	col	Colombia	sa	South America	53	0.1571369192
+2012	ecu	Ecuador	sa	South America	90	-0.5746537876
+2012	per	Peru	sa	South America	81	-0.4827786515
+2012	pry	Paraguay	sa	South America	89	-0.5514633247
+2012	ury	Uruguay	sa	South America	52	0.1679973067
+2012	ven	Venezuela	sa	South America	102	-0.8950869066
+2013	ago	Angola	af	Africa	116	-1.1870437571
+2013	bfa	Burkina Faso	af	Africa	124	-1.5106255909
+2013	bwa	Botswana	af	Africa	84	-0.4327029391
+2013	civ	Cote d\'Ivoire	af	Africa	101	-0.7471240935
+2013	cmr	Cameroon	af	Africa	105	-0.8337197755
+2013	cod	Democratic Republic of the Congo	af	Africa	122	-1.389894055
+2013	cog	Republic of the Congo	af	Africa	120	-1.3339324433
+2013	dza	Algeria	af	Africa	125	-1.5438043708
+2013	egy	Egypt	af	Africa	68	-0.1518721423
+2013	eth	Ethiopia	af	Africa	104	-0.8195874891
+2013	gab	Gabon	af	Africa	121	-1.3699528843
+2013	gha	Ghana	af	Africa	99	-0.7160607181
+2013	gin	Guinea	af	Africa	126	-1.5674398723
+2013	ken	Kenya	af	Africa	83	-0.4293785595
+2013	lby	Libya	af	Africa	131	-1.8439914451
+2013	mar	Morocco	af	Africa	91	-0.512770786
+2013	mdg	Madagascar	af	Africa	103	-0.8123903723
+2013	mli	Mali	af	Africa	119	-1.3215255812
+2013	moz	Mozambique	af	Africa	110	-1.0234934856
+2013	mrt	Mauritania	af	Africa	123	-1.4480075279
+2013	mwi	Malawi	af	Africa	113	-1.0548628967
+2013	nam	Namibia	af	Africa	79	-0.3835011879
+2013	ner	Niger	af	Africa	117	-1.2359791689
+2013	nga	Nigeria	af	Africa	129	-1.6713646027
+2013	sdn	Sudan	af	Africa	128	-1.6569891874
+2013	sen	Senegal	af	Africa	89	-0.4800315866
+2013	tcd	Chad	af	Africa	132	-2.4179853965
+2013	tgo	Togo	af	Africa	98	-0.675187838
+2013	tun	Tunisia	af	Africa	58	0.1696744423
+2013	tza	Tanzania	af	Africa	100	-0.7252331669
+2013	uga	Uganda	af	Africa	80	-0.3872008514
+2013	zaf	South Africa	af	Africa	54	0.2427399132
+2013	zmb	Zambia	af	Africa	85	-0.4355249033
+2013	zwe	Zimbabwe	af	Africa	106	-0.9084635601
+2013	are	United Arab Emirates	as	Asia	64	0.026354888
+2013	arm	Armenia	as	Asia	50	0.3075636857
+2013	aze	Azerbaijan	as	Asia	109	-0.9542048819
+2013	bgd	Bangladesh	as	Asia	108	-0.9448548105
+2013	chn	China	as	Asia	21	1.1189501529
+2013	geo	Georgia	as	Asia	67	-0.0863166535
+2013	hkg	Hong Kong	as	Asia	26	0.9607237807
+2013	idn	Indonesia	as	Asia	65	-0.0210460753
+2013	ind	India	as	Asia	49	0.315158063
+2013	irn	Iran	as	Asia	90	-0.5061911232
+2013	irq	Iraq	as	Asia	127	-1.6165154803
+2013	isr	Israel	as	Asia	19	1.1811294017
+2013	jor	Jordan	as	Asia	53	0.2437603945
+2013	jpn	Japan	as	Asia	1	2.3063625393
+2013	kaz	Kazakhstan	as	Asia	93	-0.5359903649
+2013	kgz	Kyrgyzstan	as	Asia	72	-0.2116964337
+2013	khm	Cambodia	as	Asia	112	-1.0357219234
+2013	kor	South Korea	as	Asia	6	1.715484458
+2013	kwt	Kuwait	as	Asia	74	-0.2681513198
+2013	lao	Laos	as	Asia	107	-0.9328492522
+2013	lbn	Lebanon	as	Asia	44	0.3861406497
+2013	lka	Sri Lanka	as	Asia	75	-0.3066844686
+2013	mmr	Myanmar	as	Asia	114	-1.0946241303
+2013	mng	Mongolia	as	Asia	111	-1.0345135492
+2013	mys	Malaysia	as	Asia	24	1.0532115715
+2013	omn	Oman	as	Asia	82	-0.4136211086
+2013	pak	Pakistan	as	Asia	92	-0.5315376095
+2013	phl	Philippines	as	Asia	43	0.4354714026
+2013	prk	North Korea	as	Asia	66	-0.0346304027
+2013	qat	Qatar	as	Asia	81	-0.3969313072
+2013	sau	Saudi Arabia	as	Asia	52	0.2465950078
+2013	sgp	Singapore	as	Asia	5	1.7252385657
+2013	syr	Syria	as	Asia	78	-0.3713709834
+2013	tha	Thailand	as	Asia	28	0.9296942986
+2013	tkm	Turkmenistan	as	Asia	130	-1.7075677921
+2013	tur	Turkey	as	Asia	41	0.5144871605
+2013	uzb	Uzbekistan	as	Asia	96	-0.5959073796
+2013	vnm	Vietnam	as	Asia	59	0.1035002595
+2013	\N	Chinese Taipei	as	Asia	3	1.8901102408
+2013	yem	Yemen	as	Asia	115	-1.1751177075
+2013	alb	Albania	eu	Europe	76	-0.3373929464
+2013	aut	Austria	eu	Europe	10	1.573920176
+2013	bel	Belgium	eu	Europe	18	1.2380840917
+2013	bgr	Bulgaria	eu	Europe	38	0.5845190997
+2013	bih	Bosnia and Herzegovina	eu	Europe	45	0.3663862036
+2013	blr	Belarus	eu	Europe	30	0.8580507712
+2013	che	Switzerland	eu	Europe	2	2.1491359675
+2013	cze	Czechia	eu	Europe	8	1.6468207816
+2013	deu	Germany	eu	Europe	4	1.8731608416
+2013	dnk	Denmark	eu	Europe	22	1.1156391825
+2013	esp	Spain	eu	Europe	31	0.8517319466
+2013	fin	Finland	eu	Europe	12	1.4909306109
+2013	fra	France	eu	Europe	14	1.4041403013
+2013	gbr	United Kingdom	eu	Europe	9	1.6276933715
+2013	grc	Greece	eu	Europe	57	0.2104362302
+2013	hrv	Croatia	eu	Europe	29	0.9104166587
+2013	hun	Hungary	eu	Europe	15	1.371008616
+2013	irl	Ireland	eu	Europe	16	1.3570337732
+2013	ita	Italy	eu	Europe	17	1.3476962507
+2013	ltu	Lithuania	eu	Europe	34	0.7367709944
+2013	mda	Moldova	eu	Europe	63	0.036291072
+2013	mkd	North Macedonia	eu	Europe	61	0.0622541751
+2013	nld	Netherlands	eu	Europe	23	1.0707970145
+2013	nor	Norway	eu	Europe	32	0.8362554196
+2013	pol	Poland	eu	Europe	27	0.9593271047
+2013	prt	Portugal	eu	Europe	36	0.6152863087
+2013	rou	Romania	eu	Europe	33	0.7805571743
+2013	rus	Russia	eu	Europe	46	0.3398629657
+2013	srb	Serbia	eu	Europe	39	0.5609174209
+2013	svk	Slovakia	eu	Europe	20	1.1788897432
+2013	svn	Slovenia	eu	Europe	11	1.552946439
+2013	swe	Sweden	eu	Europe	7	1.7139598691
+2013	ukr	Ukraine	eu	Europe	40	0.5352531159
+2013	can	Canada	na	North America	37	0.5887544217
+2013	cri	Costa Rica	na	North America	48	0.3224857422
+2013	cub	Cuba	na	North America	60	0.0637573434
+2013	dom	Dominican Republic	na	North America	69	-0.171990704
+2013	gtm	Guatemala	na	North America	70	-0.174580873
+2013	hnd	Honduras	na	North America	88	-0.4751798359
+2013	jam	Jamaica	na	North America	73	-0.2132779926
+2013	mex	Mexico	na	North America	25	1.0286173701
+2013	nic	Nicaragua	na	North America	102	-0.8068013466
+2013	pan	Panama	na	North America	35	0.6861639902
+2013	slv	El Salvador	na	North America	62	0.056049234
+2013	usa	United States	na	North America	13	1.4744054027
+2013	aus	Australia	oc	Oceania	77	-0.3559835365
+2013	nzl	New Zealand	oc	Oceania	47	0.3313277257
+2013	png	Papua New Guinea	oc	Oceania	118	-1.3198008358
+2013	arg	Argentina	sa	South America	56	0.2117535374
+2013	bol	Bolivia	sa	South America	97	-0.6409542043
+2013	bra	Brazil	sa	South America	42	0.4546462684
+2013	chl	Chile	sa	South America	71	-0.2110141383
+2013	col	Colombia	sa	South America	55	0.2240317349
+2013	ecu	Ecuador	sa	South America	95	-0.5552930383
+2013	per	Peru	sa	South America	87	-0.4561227419
+2013	pry	Paraguay	sa	South America	86	-0.4546444429
+2013	ury	Uruguay	sa	South America	51	0.2518257515
+2013	ven	Venezuela	sa	South America	94	-0.5456194628
+2014	ago	Angola	af	Africa	122	-1.3109955295
+2014	ben	Benin	af	Africa	99	-0.6617767733
+2014	bfa	Burkina Faso	af	Africa	118	-1.1828292341
+2014	bwa	Botswana	af	Africa	90	-0.4396225187
+2014	civ	Cote d\'Ivoire	af	Africa	100	-0.7283933575
+2014	cmr	Cameroon	af	Africa	108	-0.8643273642
+2014	cod	Democratic Republic of the Congo	af	Africa	125	-1.3922374332
+2014	cog	Republic of the Congo	af	Africa	121	-1.2778314841
+2014	dza	Algeria	af	Africa	127	-1.6088752707
+2014	egy	Egypt	af	Africa	67	-0.0676999527
+2014	eth	Ethiopia	af	Africa	105	-0.816324539
+2014	gab	Gabon	af	Africa	129	-1.7200824745
+2014	gha	Ghana	af	Africa	112	-0.9453480609
+2014	gin	Guinea	af	Africa	126	-1.4154939679
+2014	ken	Kenya	af	Africa	80	-0.3190365595
+2014	lby	Libya	af	Africa	131	-1.8476964626
+2014	mar	Morocco	af	Africa	92	-0.4424703545
+2014	mdg	Madagascar	af	Africa	103	-0.7768192792
+2014	mli	Mali	af	Africa	123	-1.3250904879
+2014	moz	Mozambique	af	Africa	111	-0.9342105582
+2014	mrt	Mauritania	af	Africa	130	-1.7205396665
+2014	nam	Namibia	af	Africa	82	-0.3553483917
+2014	ner	Niger	af	Africa	115	-1.1377975002
+2014	nga	Nigeria	af	Africa	128	-1.6529934999
+2014	sdn	Sudan	af	Africa	124	-1.366033697
+2014	sen	Senegal	af	Africa	85	-0.4042714406
+2014	sle	Sierra Leone	af	Africa	116	-1.1452063442
+2014	ssd	South Sudan	af	Africa	133	-2.1613379374
+2014	tcd	Chad	af	Africa	134	-2.4706359205
+2014	tgo	Togo	af	Africa	95	-0.5860244566
+2014	tun	Tunisia	af	Africa	52	0.2446153974
+2014	tza	Tanzania	af	Africa	102	-0.765526578
+2014	uga	Uganda	af	Africa	77	-0.3025322445
+2014	zaf	South Africa	af	Africa	54	0.2355344032
+2014	zmb	Zambia	af	Africa	79	-0.3099114648
+2014	zwe	Zimbabwe	af	Africa	106	-0.8302592353
+2014	are	United Arab Emirates	as	Asia	62	0.1187699884
+2014	arm	Armenia	as	Asia	50	0.2509615359
+2014	aze	Azerbaijan	as	Asia	113	-0.9585773969
+2014	bgd	Bangladesh	as	Asia	104	-0.7916190126
+2014	chn	China	as	Asia	21	1.1719750606
+2014	geo	Georgia	as	Asia	70	-0.1327556393
+2014	hkg	Hong Kong	as	Asia	25	1.0065137907
+2014	idn	Indonesia	as	Asia	65	0.0206715797
+2014	ind	India	as	Asia	47	0.372303946
+2014	irn	Iran	as	Asia	84	-0.3958774758
+2014	irq	Iraq	as	Asia	132	-1.8624440635
+2014	isr	Israel	as	Asia	19	1.1762970934
+2014	jor	Jordan	as	Asia	58	0.1923405656
+2014	jpn	Japan	as	Asia	1	2.2277037493
+2014	kaz	Kazakhstan	as	Asia	91	-0.4423950841
+2014	kgz	Kyrgyzstan	as	Asia	72	-0.172101256
+2014	khm	Cambodia	as	Asia	97	-0.6413288251
+2014	kor	South Korea	as	Asia	5	1.7711403324
+2014	kwt	Kuwait	as	Asia	94	-0.5130058774
+2014	lao	Laos	as	Asia	110	-0.8706725272
+2014	lbn	Lebanon	as	Asia	46	0.374330344
+2014	lka	Sri Lanka	as	Asia	74	-0.234946201
+2014	mmr	Myanmar	as	Asia	114	-1.006464867
+2014	mng	Mongolia	as	Asia	117	-1.1586111366
+2014	mys	Malaysia	as	Asia	26	1.0030160905
+2014	omn	Oman	as	Asia	87	-0.4286458942
+2014	pak	Pakistan	as	Asia	93	-0.4886643462
+2014	phl	Philippines	as	Asia	41	0.5495029171
+2014	prk	North Korea	as	Asia	71	-0.1396974921
+2014	qat	Qatar	as	Asia	88	-0.4341148282
+2014	sau	Saudi Arabia	as	Asia	56	0.2198484211
+2014	sgp	Singapore	as	Asia	6	1.7100159832
+2014	syr	Syria	as	Asia	66	-0.0232716389
+2014	tha	Thailand	as	Asia	27	0.9840145472
+2014	tkm	Turkmenistan	as	Asia	120	-1.2133932584
+2014	tur	Turkey	as	Asia	40	0.5502799563
+2014	uzb	Uzbekistan	as	Asia	86	-0.4267949965
+2014	vnm	Vietnam	as	Asia	60	0.1418211146
+2014	\N	Chinese Taipei	as	Asia	3	1.9301087822
+2014	yem	Yemen	as	Asia	109	-0.8674209333
+2014	alb	Albania	eu	Europe	76	-0.2654601189
+2014	aut	Austria	eu	Europe	9	1.6009521396
+2014	bel	Belgium	eu	Europe	18	1.2025428137
+2014	bgr	Bulgaria	eu	Europe	39	0.5953798216
+2014	bih	Bosnia and Herzegovina	eu	Europe	45	0.3774735518
+2014	blr	Belarus	eu	Europe	32	0.8169361062
+2014	che	Switzerland	eu	Europe	2	2.1039039341
+2014	cze	Czechia	eu	Europe	8	1.654994149
+2014	deu	Germany	eu	Europe	4	1.8723991405
+2014	dnk	Denmark	eu	Europe	22	1.0681619235
+2014	esp	Spain	eu	Europe	30	0.8556186037
+2014	fin	Finland	eu	Europe	12	1.5138315813
+2014	fra	France	eu	Europe	15	1.3661457325
+2014	gbr	United Kingdom	eu	Europe	11	1.5567996503
+2014	grc	Greece	eu	Europe	55	0.2331359073
+2014	hrv	Croatia	eu	Europe	31	0.8278501639
+2014	hun	Hungary	eu	Europe	14	1.3930278648
+2014	irl	Ireland	eu	Europe	17	1.2527304727
+2014	ita	Italy	eu	Europe	16	1.3390086949
+2014	ltu	Lithuania	eu	Europe	33	0.7645406008
+2014	mda	Moldova	eu	Europe	64	0.043942499
+2014	mkd	North Macedonia	eu	Europe	61	0.1364327428
+2014	nld	Netherlands	eu	Europe	23	1.0601567051
+2014	nor	Norway	eu	Europe	36	0.6602587819
+2014	pol	Poland	eu	Europe	28	0.9521257686
+2014	prt	Portugal	eu	Europe	35	0.6634830462
+2014	rou	Romania	eu	Europe	29	0.8699089646
+2014	rus	Russia	eu	Europe	53	0.2429485492
+2014	srb	Serbia	eu	Europe	38	0.6030165047
+2014	svk	Slovakia	eu	Europe	20	1.1762391105
+2014	svn	Slovenia	eu	Europe	10	1.5930875145
+2014	swe	Sweden	eu	Europe	7	1.70302795
+2014	ukr	Ukraine	eu	Europe	42	0.4939627897
+2014	can	Canada	na	North America	37	0.6078855015
+2014	cri	Costa Rica	na	North America	44	0.4009447347
+2014	cub	Cuba	na	North America	63	0.1185853994
+2014	dom	Dominican Republic	na	North America	68	-0.112284749
+2014	gtm	Guatemala	na	North America	69	-0.1199008227
+2014	hnd	Honduras	na	North America	81	-0.3268308727
+2014	jam	Jamaica	na	North America	75	-0.2624663701
+2014	mex	Mexico	na	North America	24	1.0498471716
+2014	nic	Nicaragua	na	North America	98	-0.6565505584
+2014	pan	Panama	na	North America	34	0.7202969546
+2014	slv	El Salvador	na	North America	59	0.152639562
+2014	usa	United States	na	North America	13	1.4972371369
+2014	aus	Australia	oc	Oceania	83	-0.3668898451
+2014	nzl	New Zealand	oc	Oceania	48	0.3692326154
+2014	png	Papua New Guinea	oc	Oceania	119	-1.1967760334
+2014	arg	Argentina	sa	South America	57	0.2017270369
+2014	bol	Bolivia	sa	South America	96	-0.6313357833
+2014	bra	Brazil	sa	South America	43	0.4633899015
+2014	chl	Chile	sa	South America	73	-0.1732309904
+2014	col	Colombia	sa	South America	49	0.2761017598
+2014	ecu	Ecuador	sa	South America	101	-0.7596653043
+2014	per	Peru	sa	South America	89	-0.4348853599
+2014	pry	Paraguay	sa	South America	78	-0.3093621904
+2014	ury	Uruguay	sa	South America	51	0.2469199781
+2014	ven	Venezuela	sa	South America	107	-0.846575341
+2015	ago	Angola	af	Africa	121	-1.3565925365
+2015	ben	Benin	af	Africa	108	-0.8569582198
+2015	bfa	Burkina Faso	af	Africa	119	-1.3155874093
+2015	bwa	Botswana	af	Africa	93	-0.5170610632
+2015	civ	Cote d\'Ivoire	af	Africa	100	-0.7162998823
+2015	cmr	Cameroon	af	Africa	97	-0.6506462751
+2015	cod	Democratic Republic of the Congo	af	Africa	115	-1.1890441528
+2015	cog	Republic of the Congo	af	Africa	116	-1.1891548238
+2015	dza	Algeria	af	Africa	120	-1.3330818228
+2015	egy	Egypt	af	Africa	66	-0.105974554
+2015	eth	Ethiopia	af	Africa	104	-0.7815219806
+2015	gab	Gabon	af	Africa	126	-1.5981346706
+2015	gha	Ghana	af	Africa	103	-0.766251841
+2015	gin	Guinea	af	Africa	125	-1.5568384407
+2015	ken	Kenya	af	Africa	78	-0.3290120442
+2015	lby	Libya	af	Africa	122	-1.3579366429
+2015	mar	Morocco	af	Africa	86	-0.4372394745
+2015	mdg	Madagascar	af	Africa	101	-0.7189409644
+2015	mli	Mali	af	Africa	129	-1.8186411212
+2015	moz	Mozambique	af	Africa	109	-0.8716879023
+2015	mrt	Mauritania	af	Africa	128	-1.6987375637
+2015	nam	Namibia	af	Africa	83	-0.4074600365
+2015	ner	Niger	af	Africa	117	-1.2430757168
+2015	nga	Nigeria	af	Africa	123	-1.4685994248
+2015	sdn	Sudan	af	Africa	124	-1.4859044231
+2015	sen	Senegal	af	Africa	90	-0.4958735581
+2015	ssd	South Sudan	af	Africa	132	-2.3037986259
+2015	tcd	Chad	af	Africa	130	-1.8798469198
+2015	tgo	Togo	af	Africa	95	-0.6042092365
+2015	tun	Tunisia	af	Africa	50	0.26946873
+2015	tza	Tanzania	af	Africa	110	-0.9068725408
+2015	uga	Uganda	af	Africa	88	-0.4628674182
+2015	zaf	South Africa	af	Africa	60	0.1186223867
+2015	zmb	Zambia	af	Africa	84	-0.4159634384
+2015	zwe	Zimbabwe	af	Africa	105	-0.787383202
+2015	are	United Arab Emirates	as	Asia	59	0.1192785645
+2015	arm	Armenia	as	Asia	52	0.1887400008
+2015	aze	Azerbaijan	as	Asia	98	-0.6885754076
+2015	bgd	Bangladesh	as	Asia	106	-0.8155949022
+2015	chn	China	as	Asia	20	1.1840438802
+2015	geo	Georgia	as	Asia	70	-0.1665824335
+2015	hkg	Hong Kong	as	Asia	27	0.9947375532
+2015	idn	Indonesia	as	Asia	63	0.0095877416
+2015	ind	India	as	Asia	45	0.3902191438
+2015	irn	Iran	as	Asia	74	-0.2343745664
+2015	irq	Iraq	as	Asia	131	-2.1145331312
+2015	isr	Israel	as	Asia	19	1.2122905023
+2015	jor	Jordan	as	Asia	54	0.1644381425
+2015	jpn	Japan	as	Asia	1	2.2697797259
+2015	kaz	Kazakhstan	as	Asia	94	-0.5448631787
+2015	kgz	Kyrgyzstan	as	Asia	72	-0.1704314956
+2015	khm	Cambodia	as	Asia	85	-0.4242854139
+2015	kor	South Korea	as	Asia	5	1.8121543258
+2015	kwt	Kuwait	as	Asia	65	-0.0515517374
+2015	lao	Laos	as	Asia	111	-0.9128632371
+2015	lbn	Lebanon	as	Asia	46	0.3890485595
+2015	lka	Sri Lanka	as	Asia	77	-0.3128061836
+2015	mmr	Myanmar	as	Asia	114	-1.1110399319
+2015	mng	Mongolia	as	Asia	118	-1.2917304615
+2015	mys	Malaysia	as	Asia	28	0.9573028217
+2015	omn	Oman	as	Asia	79	-0.3494529984
+2015	pak	Pakistan	as	Asia	91	-0.4979427564
+2015	phl	Philippines	as	Asia	41	0.4653053611
+2015	prk	North Korea	as	Asia	69	-0.151062203
+2015	qat	Qatar	as	Asia	75	-0.2647886691
+2015	sau	Saudi Arabia	as	Asia	44	0.4351327465
+2015	sgp	Singapore	as	Asia	6	1.795324655
+2015	tha	Thailand	as	Asia	26	1.0133773928
+2015	tkm	Turkmenistan	as	Asia	113	-1.0849273046
+2015	tur	Turkey	as	Asia	40	0.5190746672
+2015	uzb	Uzbekistan	as	Asia	82	-0.4018250795
+2015	vnm	Vietnam	as	Asia	62	0.0441592698
+2015	\N	Chinese Taipei	as	Asia	3	1.9662011553
+2015	yem	Yemen	as	Asia	107	-0.8248232676
+2015	alb	Albania	eu	Europe	80	-0.3662119559
+2015	aut	Austria	eu	Europe	9	1.5972902301
+2015	bel	Belgium	eu	Europe	17	1.248246623
+2015	bgr	Bulgaria	eu	Europe	37	0.6041263714
+2015	bih	Bosnia and Herzegovina	eu	Europe	48	0.3346475625
+2015	blr	Belarus	eu	Europe	31	0.8200322274
+2015	che	Switzerland	eu	Europe	2	2.1223061467
+2015	cze	Czechia	eu	Europe	8	1.6023060895
+2015	deu	Germany	eu	Europe	4	1.9371619263
+2015	dnk	Denmark	eu	Europe	24	1.0375132403
+2015	esp	Spain	eu	Europe	30	0.8223166577
+2015	fin	Finland	eu	Europe	13	1.4811918815
+2015	fra	France	eu	Europe	16	1.3381185374
+2015	gbr	United Kingdom	eu	Europe	10	1.5645278502
+2015	grc	Greece	eu	Europe	51	0.2662905349
+2015	hrv	Croatia	eu	Europe	33	0.7107473847
+2015	hun	Hungary	eu	Europe	14	1.4040683952
+2015	irl	Ireland	eu	Europe	18	1.2334536629
+2015	ita	Italy	eu	Europe	15	1.3774374507
+2015	ltu	Lithuania	eu	Europe	32	0.7684104629
+2015	mda	Moldova	eu	Europe	64	-0.0149805238
+2015	mkd	North Macedonia	eu	Europe	61	0.1053543166
+2015	nld	Netherlands	eu	Europe	23	1.0660037208
+2015	nor	Norway	eu	Europe	34	0.6190776441
+2015	pol	Poland	eu	Europe	25	1.0148623234
+2015	prt	Portugal	eu	Europe	35	0.6182931658
+2015	rou	Romania	eu	Europe	29	0.9357740195
+2015	rus	Russia	eu	Europe	57	0.1439523128
+2015	srb	Serbia	eu	Europe	38	0.577658039
+2015	svk	Slovakia	eu	Europe	21	1.1681356965
+2015	svn	Slovenia	eu	Europe	11	1.5386947464
+2015	swe	Sweden	eu	Europe	7	1.6594080395
+2015	ukr	Ukraine	eu	Europe	43	0.4451848543
+2015	can	Canada	na	North America	39	0.5443299501
+2015	cri	Costa Rica	na	North America	47	0.3671169802
+2015	cub	Cuba	na	North America	67	-0.1415036884
+2015	dom	Dominican Republic	na	North America	68	-0.1487781099
+2015	gtm	Guatemala	na	North America	71	-0.1692773447
+2015	hnd	Honduras	na	North America	81	-0.382703827
+2015	jam	Jamaica	na	North America	76	-0.2695531126
+2015	mex	Mexico	na	North America	22	1.0763548944
+2015	nic	Nicaragua	na	North America	99	-0.7113745698
+2015	pan	Panama	na	North America	36	0.60995734
+2015	slv	El Salvador	na	North America	55	0.1640989512
+2015	usa	United States	na	North America	12	1.5122863898
+2015	aus	Australia	oc	Oceania	89	-0.4913831565
+2015	nzl	New Zealand	oc	Oceania	49	0.2906375684
+2015	png	Papua New Guinea	oc	Oceania	127	-1.661579707
+2015	arg	Argentina	sa	South America	56	0.151299332
+2015	bol	Bolivia	sa	South America	112	-0.987574622
+2015	bra	Brazil	sa	South America	42	0.460477231
+2015	chl	Chile	sa	South America	73	-0.2162307547
+2015	col	Colombia	sa	South America	58	0.1361637353
+2015	ecu	Ecuador	sa	South America	102	-0.7599586351
+2015	per	Peru	sa	South America	92	-0.5076384448
+2015	pry	Paraguay	sa	South America	87	-0.4547282135
+2015	ury	Uruguay	sa	South America	53	0.1742484022
+2015	ven	Venezuela	sa	South America	96	-0.6431212646
+2016	ago	Angola	af	Africa	118	-1.3638706906
+2016	bfa	Burkina Faso	af	Africa	117	-1.3488839702
+2016	bwa	Botswana	af	Africa	95	-0.6871639544
+2016	civ	Cote d\'Ivoire	af	Africa	93	-0.6100726692
+2016	cmr	Cameroon	af	Africa	91	-0.5896048117
+2016	cod	Democratic Republic of the Congo	af	Africa	114	-1.2495655152
+2016	cog	Republic of the Congo	af	Africa	108	-0.924848404
+2016	dza	Algeria	af	Africa	119	-1.3824943795
+2016	egy	Egypt	af	Africa	64	-0.0518075679
+2016	eth	Ethiopia	af	Africa	96	-0.7317049651
+2016	gab	Gabon	af	Africa	123	-1.5749074586
+2016	gha	Ghana	af	Africa	101	-0.8077949286
+2016	gin	Guinea	af	Africa	124	-1.6050838364
+2016	ken	Kenya	af	Africa	72	-0.2823596959
+2016	lby	Libya	af	Africa	121	-1.472923814
+2016	mar	Morocco	af	Africa	84	-0.4727354229
+2016	mdg	Madagascar	af	Africa	104	-0.8671906777
+2016	mli	Mali	af	Africa	116	-1.3048279969
+2016	moz	Mozambique	af	Africa	110	-0.97581774
+2016	mrt	Mauritania	af	Africa	122	-1.4840048884
+2016	nam	Namibia	af	Africa	94	-0.6417421878
+2016	nga	Nigeria	af	Africa	113	-1.1958476464
+2016	sdn	Sudan	af	Africa	120	-1.4010523166
+2016	sen	Senegal	af	Africa	87	-0.5093032849
+2016	ssd	South Sudan	af	Africa	127	-2.2434892556
+2016	tcd	Chad	af	Africa	126	-1.8967360751
+2016	tgo	Togo	af	Africa	88	-0.524793626
+2016	tun	Tunisia	af	Africa	49	0.2577783896
+2016	tza	Tanzania	af	Africa	105	-0.8828500442
+2016	uga	Uganda	af	Africa	81	-0.4041823982
+2016	zaf	South Africa	af	Africa	63	0.0403551876
+2016	zmb	Zambia	af	Africa	90	-0.5822166161
+2016	zwe	Zimbabwe	af	Africa	103	-0.8550061128
+2016	are	United Arab Emirates	as	Asia	57	0.1179331813
+2016	arm	Armenia	as	Asia	61	0.0457350356
+2016	aze	Azerbaijan	as	Asia	98	-0.7952113818
+2016	bgd	Bangladesh	as	Asia	99	-0.7967946797
+2016	chn	China	as	Asia	20	1.1488161286
+2016	geo	Georgia	as	Asia	69	-0.2308695409
+2016	hkg	Hong Kong	as	Asia	27	0.972495786
+2016	idn	Indonesia	as	Asia	62	0.0445571007
+2016	ind	India	as	Asia	43	0.4191638082
+2016	irn	Iran	as	Asia	77	-0.3712678162
+2016	irq	Iraq	as	Asia	128	-2.6983398421
+2016	isr	Israel	as	Asia	18	1.2022217043
+2016	jor	Jordan	as	Asia	58	0.1016360571
+2016	jpn	Japan	as	Asia	1	2.2501234779
+2016	kaz	Kazakhstan	as	Asia	89	-0.538740891
+2016	kgz	Kyrgyzstan	as	Asia	68	-0.1600224808
+2016	khm	Cambodia	as	Asia	86	-0.4964261474
+2016	kor	South Korea	as	Asia	5	1.8256994595
+2016	kwt	Kuwait	as	Asia	76	-0.350969676
+2016	lao	Laos	as	Asia	102	-0.8170819383
+2016	lbn	Lebanon	as	Asia	44	0.3892645783
+2016	lka	Sri Lanka	as	Asia	71	-0.2546495247
+2016	mmr	Myanmar	as	Asia	112	-1.0976898893
+2016	mng	Mongolia	as	Asia	115	-1.2702720756
+2016	mys	Malaysia	as	Asia	22	1.0857360998
+2016	omn	Oman	as	Asia	79	-0.3991172319
+2016	pak	Pakistan	as	Asia	83	-0.4710725797
+2016	phl	Philippines	as	Asia	40	0.4756500128
+2016	prk	North Korea	as	Asia	70	-0.2439918617
+2016	qat	Qatar	as	Asia	74	-0.3374720065
+2016	sau	Saudi Arabia	as	Asia	45	0.372883019
+2016	sgp	Singapore	as	Asia	6	1.7770984592
+2016	tha	Thailand	as	Asia	28	0.970960332
+2016	tkm	Turkmenistan	as	Asia	107	-0.9048657514
+2016	tur	Turkey	as	Asia	38	0.5229585182
+2016	uzb	Uzbekistan	as	Asia	85	-0.4799836331
+2016	vnm	Vietnam	as	Asia	56	0.1372346932
+2016	\N	Chinese Taipei	as	Asia	3	1.9592268894
+2016	yem	Yemen	as	Asia	109	-0.9344810475
+2016	alb	Albania	eu	Europe	78	-0.3845280289
+2016	aut	Austria	eu	Europe	9	1.5717520994
+2016	bel	Belgium	eu	Europe	19	1.1959072971
+2016	bgr	Bulgaria	eu	Europe	37	0.5581292926
+2016	bih	Bosnia and Herzegovina	eu	Europe	42	0.4376878191
+2016	blr	Belarus	eu	Europe	32	0.7224929685
+2016	che	Switzerland	eu	Europe	2	2.0941921909
+2016	cze	Czechia	eu	Europe	7	1.5814123329
+2016	deu	Germany	eu	Europe	4	1.8998999673
+2016	dnk	Denmark	eu	Europe	25	1.0356647367
+2016	esp	Spain	eu	Europe	31	0.7584298579
+2016	fin	Finland	eu	Europe	15	1.3162593768
+2016	fra	France	eu	Europe	16	1.3098245446
+2016	gbr	United Kingdom	eu	Europe	11	1.5144197337
+2016	grc	Greece	eu	Europe	52	0.2203366695
+2016	hrv	Croatia	eu	Europe	33	0.716225392
+2016	hun	Hungary	eu	Europe	13	1.3675559532
+2016	irl	Ireland	eu	Europe	17	1.2578737287
+2016	ita	Italy	eu	Europe	14	1.3439511953
+2016	ltu	Lithuania	eu	Europe	30	0.7730763853
+2016	mda	Moldova	eu	Europe	67	-0.135450108
+2016	mkd	North Macedonia	eu	Europe	59	0.0697906132
+2016	nld	Netherlands	eu	Europe	23	1.0501885877
+2016	nor	Norway	eu	Europe	34	0.7031168488
+2016	pol	Poland	eu	Europe	24	1.0472252381
+2016	prt	Portugal	eu	Europe	35	0.6446214418
+2016	rou	Romania	eu	Europe	29	0.9300997584
+2016	rus	Russia	eu	Europe	55	0.1517956986
+2016	srb	Serbia	eu	Europe	39	0.5169658354
+2016	svk	Slovakia	eu	Europe	21	1.0912374728
+2016	svn	Slovenia	eu	Europe	10	1.5173998631
+2016	swe	Sweden	eu	Europe	8	1.5744128412
+2016	ukr	Ukraine	eu	Europe	48	0.3069158176
+2016	can	Canada	na	North America	41	0.4555759876
+2016	cri	Costa Rica	na	North America	47	0.332857085
+2016	dom	Dominican Republic	na	North America	66	-0.0940650868
+2016	gtm	Guatemala	na	North America	65	-0.0653381072
+2016	hnd	Honduras	na	North America	75	-0.3417889752
+2016	mex	Mexico	na	North America	26	1.020646477
+2016	nic	Nicaragua	na	North America	97	-0.743053423
+2016	pan	Panama	na	North America	36	0.5646565684
+2016	slv	El Salvador	na	North America	51	0.222593385
+2016	usa	United States	na	North America	12	1.4996535068
+2016	aus	Australia	oc	Oceania	82	-0.4643558249
+2016	nzl	New Zealand	oc	Oceania	50	0.2382186399
+2016	png	Papua New Guinea	oc	Oceania	125	-1.663916541
+2016	arg	Argentina	sa	South America	60	0.049933375
+2016	bol	Bolivia	sa	South America	111	-1.0297425136
+2016	bra	Brazil	sa	South America	46	0.3400686704
+2016	chl	Chile	sa	South America	73	-0.2895605334
+2016	col	Colombia	sa	South America	54	0.1754077583
+2016	ecu	Ecuador	sa	South America	100	-0.7991420087
+2016	per	Peru	sa	South America	92	-0.5949455079
+2016	pry	Paraguay	sa	South America	80	-0.399499186
+2016	ury	Uruguay	sa	South America	53	0.1871358082
+2016	ven	Venezuela	sa	South America	106	-0.9035479483
+2017	ago	Angola	af	Africa	119	-1.3327893699
+2017	bfa	Burkina Faso	af	Africa	122	-1.5131494514
+2017	bwa	Botswana	af	Africa	88	-0.5858285623
+2017	civ	Cote d\'Ivoire	af	Africa	93	-0.6958179544
+2017	cmr	Cameroon	af	Africa	104	-0.8900684339
+2017	cod	Democratic Republic of the Congo	af	Africa	97	-0.751760296
+2017	cog	Republic of the Congo	af	Africa	87	-0.5719664466
+2017	dza	Algeria	af	Africa	117	-1.2010298316
+2017	egy	Egypt	af	Africa	65	-0.09934811
+2017	eth	Ethiopia	af	Africa	105	-0.9044265829
+2017	gab	Gabon	af	Africa	113	-1.1214081808
+2017	gha	Ghana	af	Africa	103	-0.8827610618
+2017	gin	Guinea	af	Africa	125	-1.5298412522
+2017	ken	Kenya	af	Africa	77	-0.3954464119
+2017	lby	Libya	af	Africa	118	-1.2674598587
+2017	mar	Morocco	af	Africa	86	-0.5418435738
+2017	mdg	Madagascar	af	Africa	107	-0.947142033
+2017	mli	Mali	af	Africa	110	-1.0219238915
+2017	moz	Mozambique	af	Africa	114	-1.1800060412
+2017	mrt	Mauritania	af	Africa	121	-1.4772146378
+2017	nam	Namibia	af	Africa	95	-0.7163591095
+2017	ner	Niger	af	Africa	112	-1.1195429052
+2017	nga	Nigeria	af	Africa	126	-1.539761382
+2017	sdn	Sudan	af	Africa	124	-1.5276750976
+2017	sen	Senegal	af	Africa	85	-0.5417505619
+2017	ssd	South Sudan	af	Africa	129	-2.1701250929
+2017	tcd	Chad	af	Africa	128	-1.9130875315
+2017	tgo	Togo	af	Africa	96	-0.7512144153
+2017	tun	Tunisia	af	Africa	48	0.2750399957
+2017	tza	Tanzania	af	Africa	106	-0.9128985252
+2017	uga	Uganda	af	Africa	90	-0.6197938757
+2017	zaf	South Africa	af	Africa	63	-0.0379022897
+2017	zmb	Zambia	af	Africa	92	-0.6694856174
+2017	zwe	Zimbabwe	af	Africa	101	-0.8415559419
+2017	are	United Arab Emirates	as	Asia	58	0.0592866237
+2017	arm	Armenia	as	Asia	64	-0.0595206985
+2017	aze	Azerbaijan	as	Asia	98	-0.7523968411
+2017	bgd	Bangladesh	as	Asia	102	-0.860400723
+2017	chn	China	as	Asia	20	1.169403668
+2017	geo	Georgia	as	Asia	73	-0.3322684064
+2017	hkg	Hong Kong	as	Asia	27	1.044765381
+2017	idn	Indonesia	as	Asia	62	-0.0346576923
+2017	ind	India	as	Asia	43	0.4200490409
+2017	irn	Iran	as	Asia	76	-0.3846370906
+2017	irq	Iraq	as	Asia	123	-1.5136918906
+2017	isr	Israel	as	Asia	17	1.3056502006
+2017	jor	Jordan	as	Asia	57	0.0626176094
+2017	jpn	Japan	as	Asia	1	2.3442522342
+2017	kaz	Kazakhstan	as	Asia	91	-0.6608196015
+2017	kgz	Kyrgyzstan	as	Asia	61	-0.0292327689
+2017	khm	Cambodia	as	Asia	79	-0.4068461448
+2017	kor	South Korea	as	Asia	6	1.8323998483
+2017	kwt	Kuwait	as	Asia	66	-0.1123823696
+2017	lao	Laos	as	Asia	94	-0.6978442455
+2017	lbn	Lebanon	as	Asia	44	0.3773644619
+2017	lka	Sri Lanka	as	Asia	72	-0.3304807657
+2017	mmr	Myanmar	as	Asia	109	-0.995395629
+2017	mng	Mongolia	as	Asia	120	-1.3467394032
+2017	mys	Malaysia	as	Asia	21	1.1371162601
+2017	omn	Oman	as	Asia	74	-0.3390220618
+2017	pak	Pakistan	as	Asia	84	-0.4933731283
+2017	phl	Philippines	as	Asia	35	0.6731576483
+2017	prk	North Korea	as	Asia	71	-0.2745843776
+2017	qat	Qatar	as	Asia	81	-0.4235158417
+2017	sau	Saudi Arabia	as	Asia	42	0.5150461737
+2017	sgp	Singapore	as	Asia	5	1.8828748277
+2017	tha	Thailand	as	Asia	28	1.005048392
+2017	tkm	Turkmenistan	as	Asia	116	-1.200934781
+2017	tur	Turkey	as	Asia	38	0.5560416296
+2017	uzb	Uzbekistan	as	Asia	75	-0.3774085505
+2017	vnm	Vietnam	as	Asia	56	0.0718826378
+2017	\N	Chinese Taipei	as	Asia	2	2.0890651843
+2017	yem	Yemen	as	Asia	115	-1.1883901069
+2017	alb	Albania	eu	Europe	83	-0.4394636659
+2017	aut	Austria	eu	Europe	8	1.6043422328
+2017	bel	Belgium	eu	Europe	19	1.2180812378
+2017	bgr	Bulgaria	eu	Europe	41	0.5215875805
+2017	bih	Bosnia and Herzegovina	eu	Europe	46	0.3547890648
+2017	blr	Belarus	eu	Europe	33	0.7106989984
+2017	che	Switzerland	eu	Europe	3	2.0834516525
+2017	cze	Czechia	eu	Europe	10	1.5721392151
+2017	deu	Germany	eu	Europe	4	1.9641618688
+2017	dnk	Denmark	eu	Europe	25	1.0599206264
+2017	esp	Spain	eu	Europe	31	0.7503929243
+2017	fin	Finland	eu	Europe	13	1.4019400129
+2017	fra	France	eu	Europe	16	1.3386023753
+2017	gbr	United Kingdom	eu	Europe	9	1.5839132207
+2017	grc	Greece	eu	Europe	54	0.1711517076
+2017	hrv	Croatia	eu	Europe	32	0.7237620938
+2017	hun	Hungary	eu	Europe	15	1.3509425212
+2017	irl	Ireland	eu	Europe	18	1.2582530624
+2017	ita	Italy	eu	Europe	14	1.3597400949
+2017	ltu	Lithuania	eu	Europe	30	0.7856134465
+2017	mda	Moldova	eu	Europe	69	-0.2055898297
+2017	mkd	North Macedonia	eu	Europe	59	0.045315515
+2017	nld	Netherlands	eu	Europe	23	1.0836466135
+2017	nor	Norway	eu	Europe	34	0.693647593
+2017	pol	Poland	eu	Europe	26	1.0569759262
+2017	prt	Portugal	eu	Europe	37	0.6158890083
+2017	rou	Romania	eu	Europe	29	0.9924921339
+2017	rus	Russia	eu	Europe	53	0.1936937693
+2017	srb	Serbia	eu	Europe	40	0.5450001792
+2017	svk	Slovakia	eu	Europe	22	1.1086056533
+2017	svn	Slovenia	eu	Europe	11	1.5394495022
+2017	swe	Sweden	eu	Europe	7	1.6080703473
+2017	ukr	Ukraine	eu	Europe	49	0.261174712
+2017	can	Canada	na	North America	39	0.5496362019
+2017	cri	Costa Rica	na	North America	50	0.2230988802
+2017	dom	Dominican Republic	na	North America	68	-0.1672572612
+2017	gtm	Guatemala	na	North America	67	-0.1455466476
+2017	hnd	Honduras	na	North America	78	-0.4001162479
+2017	mex	Mexico	na	North America	24	1.0660069613
+2017	nic	Nicaragua	na	North America	100	-0.8027372131
+2017	pan	Panama	na	North America	36	0.6429954525
+2017	slv	El Salvador	na	North America	47	0.2857983088
+2017	usa	United States	na	North America	12	1.4940250519
+2017	aus	Australia	oc	Oceania	82	-0.4315887266
+2017	nzl	New Zealand	oc	Oceania	51	0.2157451059
+2017	png	Papua New Guinea	oc	Oceania	127	-1.7895142349
+2017	arg	Argentina	sa	South America	60	-0.0095824
+2017	bol	Bolivia	sa	South America	111	-1.0803168503
+2017	bra	Brazil	sa	South America	45	0.3650111973
+2017	chl	Chile	sa	South America	70	-0.2263373028
+2017	col	Colombia	sa	South America	55	0.131223689
+2017	ecu	Ecuador	sa	South America	99	-0.7739193457
+2017	per	Peru	sa	South America	89	-0.6049951234
+2017	pry	Paraguay	sa	South America	80	-0.4233837348
+2017	ury	Uruguay	sa	South America	52	0.2067440227
+2017	ven	Venezuela	sa	South America	108	-0.9715155485
+2018	ago	Angola	af	Africa	120	-1.2667537538
+2018	bfa	Burkina Faso	af	Africa	124	-1.5750829084
+2018	bwa	Botswana	af	Africa	97	-0.7243516543
+2018	civ	Cote d\'Ivoire	af	Africa	101	-0.8056058331
+2018	cmr	Cameroon	af	Africa	108	-1.0561565008
+2018	cod	Democratic Republic of the Congo	af	Africa	103	-0.8613420909
+2018	cog	Republic of the Congo	af	Africa	92	-0.6500466177
+2018	dza	Algeria	af	Africa	114	-1.1809966079
+2018	egy	Egypt	af	Africa	64	-0.1164715271
+2018	eth	Ethiopia	af	Africa	96	-0.7187319546
+2018	gab	Gabon	af	Africa	116	-1.1902557975
+2018	gha	Ghana	af	Africa	115	-1.187591616
+2018	gin	Guinea	af	Africa	125	-1.6739630213
+2018	ken	Kenya	af	Africa	78	-0.3841646812
+2018	lby	Libya	af	Africa	123	-1.5248126397
+2018	mar	Morocco	af	Africa	87	-0.5200177569
+2018	mdg	Madagascar	af	Africa	107	-0.9614891208
+2018	mli	Mali	af	Africa	112	-1.0907182581
+2018	moz	Mozambique	af	Africa	119	-1.2618068201
+2018	mrt	Mauritania	af	Africa	122	-1.4271812589
+2018	nam	Namibia	af	Africa	88	-0.5263358153
+2018	ner	Niger	af	Africa	111	-1.0805430279
+2018	nga	Nigeria	af	Africa	126	-1.7280177321
+2018	sdn	Sudan	af	Africa	121	-1.4232024753
+2018	sen	Senegal	af	Africa	89	-0.6121404038
+2018	ssd	South Sudan	af	Africa	129	-2.2125494007
+2018	tgo	Togo	af	Africa	98	-0.7546747482
+2018	tun	Tunisia	af	Africa	48	0.286095599
+2018	tza	Tanzania	af	Africa	82	-0.4513778722
+2018	uga	Uganda	af	Africa	93	-0.6758227725
+2018	zaf	South Africa	af	Africa	60	0.0037481231
+2018	zmb	Zambia	af	Africa	90	-0.6152529724
+2018	zwe	Zimbabwe	af	Africa	106	-0.9578962637
+2018	are	United Arab Emirates	as	Asia	59	0.0479668442
+2018	arm	Armenia	as	Asia	68	-0.1913062045
+2018	aze	Azerbaijan	as	Asia	104	-0.894132563
+2018	bgd	Bangladesh	as	Asia	102	-0.8079337607
+2018	chn	China	as	Asia	21	1.1747699178
+2018	geo	Georgia	as	Asia	67	-0.1647700175
+2018	hkg	Hong Kong	as	Asia	23	1.0918173566
+2018	idn	Indonesia	as	Asia	61	-0.0140676385
+2018	ind	India	as	Asia	44	0.4248766059
+2018	irn	Iran	as	Asia	76	-0.3631527224
+2018	irq	Iraq	as	Asia	128	-1.9172443222
+2018	isr	Israel	as	Asia	19	1.2099460466
+2018	jor	Jordan	as	Asia	58	0.0710337485
+2018	jpn	Japan	as	Asia	1	2.3192023469
+2018	kaz	Kazakhstan	as	Asia	95	-0.7111558457
+2018	kgz	Kyrgyzstan	as	Asia	63	-0.0967392721
+2018	khm	Cambodia	as	Asia	83	-0.4782826988
+2018	kor	South Korea	as	Asia	5	1.9068002236
+2018	kwt	Kuwait	as	Asia	73	-0.2368294647
+2018	lao	Laos	as	Asia	94	-0.6985890068
+2018	lbn	Lebanon	as	Asia	47	0.2892653285
+2018	lka	Sri Lanka	as	Asia	74	-0.2485613774
+2018	mmr	Myanmar	as	Asia	105	-0.9225377088
+2018	mng	Mongolia	as	Asia	118	-1.2607603717
+2018	mys	Malaysia	as	Asia	24	1.0692892528
+2018	omn	Oman	as	Asia	79	-0.3911568529
+2018	pak	Pakistan	as	Asia	86	-0.5159173571
+2018	phl	Philippines	as	Asia	34	0.6798400538
+2018	prk	North Korea	as	Asia	72	-0.2285620928
+2018	qat	Qatar	as	Asia	84	-0.5073388093
+2018	sau	Saudi Arabia	as	Asia	42	0.5224277057
+2018	sgp	Singapore	as	Asia	6	1.8493679231
+2018	tha	Thailand	as	Asia	29	0.9776265427
+2018	tkm	Turkmenistan	as	Asia	110	-1.0772568498
+2018	tur	Turkey	as	Asia	38	0.5686584813
+2018	uzb	Uzbekistan	as	Asia	80	-0.4151139304
+2018	vnm	Vietnam	as	Asia	57	0.091144051
+2018	\N	Chinese Taipei	as	Asia	2	2.1040446472
+2018	yem	Yemen	as	Asia	117	-1.2460059358
+2018	alb	Albania	eu	Europe	75	-0.3629425082
+2018	aut	Austria	eu	Europe	7	1.592881632
+2018	bel	Belgium	eu	Europe	18	1.2141165666
+2018	bgr	Bulgaria	eu	Europe	39	0.5490710454
+2018	bih	Bosnia and Herzegovina	eu	Europe	43	0.4521331349
+2018	blr	Belarus	eu	Europe	31	0.8048360003
+2018	che	Switzerland	eu	Europe	3	2.0823034798
+2018	cze	Czechia	eu	Europe	8	1.5910760237
+2018	deu	Germany	eu	Europe	4	1.934655195
+2018	dnk	Denmark	eu	Europe	27	1.0219894165
+2018	esp	Spain	eu	Europe	33	0.7407624617
+2018	fin	Finland	eu	Europe	13	1.3959419947
+2018	fra	France	eu	Europe	16	1.3125689286
+2018	gbr	United Kingdom	eu	Europe	11	1.5470133145
+2018	grc	Greece	eu	Europe	53	0.1505909236
+2018	hrv	Croatia	eu	Europe	32	0.7607146716
+2018	hun	Hungary	eu	Europe	14	1.366058509
+2018	irl	Ireland	eu	Europe	17	1.2183974063
+2018	ita	Italy	eu	Europe	15	1.3318307149
+2018	ltu	Lithuania	eu	Europe	30	0.8555424743
+2018	mda	Moldova	eu	Europe	65	-0.1291753335
+2018	mkd	North Macedonia	eu	Europe	55	0.1361116524
+2018	nld	Netherlands	eu	Europe	28	1.0164354482
+2018	nor	Norway	eu	Europe	37	0.6075927816
+2018	pol	Poland	eu	Europe	22	1.0950092456
+2018	prt	Portugal	eu	Europe	35	0.6299959829
+2018	rou	Romania	eu	Europe	25	1.0548021301
+2018	rus	Russia	eu	Europe	52	0.1752506027
+2018	srb	Serbia	eu	Europe	36	0.6134899296
+2018	svk	Slovakia	eu	Europe	20	1.1780626798
+2018	svn	Slovenia	eu	Europe	10	1.5660366032
+2018	swe	Sweden	eu	Europe	9	1.5791766716
+2018	ukr	Ukraine	eu	Europe	46	0.318492136
+2018	can	Canada	na	North America	41	0.5333324615
+2018	cri	Costa Rica	na	North America	50	0.1766613496
+2018	dom	Dominican Republic	na	North America	66	-0.1360880557
+2018	gtm	Guatemala	na	North America	70	-0.2023507116
+2018	hnd	Honduras	na	North America	81	-0.4481943657
+2018	jam	Jamaica	na	North America	71	-0.2249525496
+2018	mex	Mexico	na	North America	26	1.0480160492
+2018	nic	Nicaragua	na	North America	99	-0.7556458109
+2018	pan	Panama	na	North America	40	0.5432719345
+2018	slv	El Salvador	na	North America	51	0.1757849825
+2018	usa	United States	na	North America	12	1.4306557071
+2018	aus	Australia	oc	Oceania	85	-0.5109670578
+2018	nzl	New Zealand	oc	Oceania	49	0.2638415714
+2018	png	Papua New Guinea	oc	Oceania	127	-1.8263832182
+2018	arg	Argentina	sa	South America	62	-0.0481375129
+2018	bol	Bolivia	sa	South America	113	-1.1076337593
+2018	bra	Brazil	sa	South America	45	0.3784017715
+2018	chl	Chile	sa	South America	69	-0.2020811149
+2018	col	Colombia	sa	South America	54	0.1407260865
+2018	ecu	Ecuador	sa	South America	100	-0.7688362726
+2018	per	Peru	sa	South America	91	-0.6228933485
+2018	pry	Paraguay	sa	South America	77	-0.3635341839
+2018	ury	Uruguay	sa	South America	56	0.1001330003
+2018	ven	Venezuela	sa	South America	109	-1.0591009599
+2019	ago	Angola	af	Africa	117	-1.2293598262
+2019	bfa	Burkina Faso	af	Africa	128	-1.6204648944
+2019	bwa	Botswana	af	Africa	89	-0.5758435612
+2019	civ	Cote d\'Ivoire	af	Africa	100	-0.879208702
+2019	cmr	Cameroon	af	Africa	112	-1.1748637731
+2019	cod	Democratic Republic of the Congo	af	Africa	99	-0.8565073932
+2019	cog	Republic of the Congo	af	Africa	107	-0.997037932
+2019	dza	Algeria	af	Africa	113	-1.1930481351
+2019	egy	Egypt	af	Africa	63	-0.1066005539
+2019	eth	Ethiopia	af	Africa	102	-0.8889813715
+2019	gab	Gabon	af	Africa	116	-1.2033814826
+2019	gha	Ghana	af	Africa	118	-1.2418070779
+2019	gin	Guinea	af	Africa	127	-1.5965440986
+2019	ken	Kenya	af	Africa	76	-0.3711142465
+2019	lby	Libya	af	Africa	123	-1.4235164992
+2019	mar	Morocco	af	Africa	84	-0.5345946374
+2019	mdg	Madagascar	af	Africa	108	-1.076878198
+2019	mli	Mali	af	Africa	115	-1.20100468
+2019	moz	Mozambique	af	Africa	114	-1.1957875009
+2019	mrt	Mauritania	af	Africa	122	-1.3864480752
+2019	nam	Namibia	af	Africa	85	-0.5366383419
+2019	ner	Niger	af	Africa	111	-1.1490834916
+2019	nga	Nigeria	af	Africa	125	-1.5346985608
+2019	sdn	Sudan	af	Africa	124	-1.440176817
+2019	sen	Senegal	af	Africa	95	-0.7199330467
+2019	ssd	South Sudan	af	Africa	129	-1.9911922236
+2019	tgo	Togo	af	Africa	93	-0.6843293513
+2019	tun	Tunisia	af	Africa	48	0.2712804097
+2019	tza	Tanzania	af	Africa	83	-0.5142540727
+2019	uga	Uganda	af	Africa	94	-0.6955842358
+2019	zaf	South Africa	af	Africa	59	0.0605495264
+2019	zmb	Zambia	af	Africa	86	-0.5465831996
+2019	zwe	Zimbabwe	af	Africa	104	-0.9454369674
+2019	afg	Afghanistan	as	Asia	120	-1.3023669607
+2019	are	United Arab Emirates	as	Asia	56	0.1238374008
+2019	arm	Armenia	as	Asia	74	-0.3304773889
+2019	aze	Azerbaijan	as	Asia	105	-0.9752653549
+2019	bgd	Bangladesh	as	Asia	97	-0.7597653104
+2019	chn	China	as	Asia	21	1.172823373
+2019	geo	Georgia	as	Asia	66	-0.1288392489
+2019	hkg	Hong Kong	as	Asia	22	1.16660306
+2019	idn	Indonesia	as	Asia	61	0.0129338681
+2019	ind	India	as	Asia	43	0.4315609738
+2019	irn	Iran	as	Asia	79	-0.4009201853
+2019	irq	Iraq	as	Asia	119	-1.2758318975
+2019	isr	Israel	as	Asia	17	1.2625888271
+2019	jor	Jordan	as	Asia	60	0.0166314159
+2019	jpn	Japan	as	Asia	1	2.3710258906
+2019	kaz	Kazakhstan	as	Asia	90	-0.6155804579
+2019	kgz	Kyrgyzstan	as	Asia	73	-0.296475699
+2019	khm	Cambodia	as	Asia	87	-0.5601611557
+2019	kor	South Korea	as	Asia	4	2.0497159253
+2019	kwt	Kuwait	as	Asia	65	-0.1185774384
+2019	lao	Laos	as	Asia	91	-0.6298551583
+2019	lbn	Lebanon	as	Asia	46	0.2947840815
+2019	lka	Sri Lanka	as	Asia	72	-0.2944112918
+2019	mmr	Myanmar	as	Asia	101	-0.8819442422
+2019	mng	Mongolia	as	Asia	110	-1.1399177163
+2019	mys	Malaysia	as	Asia	23	1.1310035817
+2019	omn	Oman	as	Asia	77	-0.3819798676
+2019	pak	Pakistan	as	Asia	88	-0.561556559
+2019	phl	Philippines	as	Asia	34	0.6957821208
+2019	qat	Qatar	as	Asia	67	-0.2190108137
+2019	sau	Saudi Arabia	as	Asia	37	0.6151780864
+2019	sgp	Singapore	as	Asia	6	1.854639806
+2019	tha	Thailand	as	Asia	28	1.0098742461
+2019	tkm	Turkmenistan	as	Asia	109	-1.1000521847
+2019	tur	Turkey	as	Asia	39	0.5730522175
+2019	uzb	Uzbekistan	as	Asia	81	-0.4900469263
+2019	vnm	Vietnam	as	Asia	57	0.0930259642
+2019	\N	Chinese Taipei	as	Asia	2	2.1636751196
+2019	yem	Yemen	as	Asia	121	-1.3633890603
+2019	alb	Albania	eu	Europe	80	-0.4510082526
+2019	aut	Austria	eu	Europe	7	1.6273393775
+2019	bel	Belgium	eu	Europe	19	1.205331687
+2019	bgr	Bulgaria	eu	Europe	41	0.5443704065
+2019	bih	Bosnia and Herzegovina	eu	Europe	42	0.4868189602
+2019	blr	Belarus	eu	Europe	31	0.8083990731
+2019	che	Switzerland	eu	Europe	3	2.0855051052
+2019	cze	Czechia	eu	Europe	8	1.6195127444
+2019	deu	Germany	eu	Europe	5	1.9373082368
+2019	dnk	Denmark	eu	Europe	27	1.0155534443
+2019	esp	Spain	eu	Europe	33	0.7495224771
+2019	fin	Finland	eu	Europe	13	1.450015632
+2019	fra	France	eu	Europe	16	1.288308436
+2019	gbr	United Kingdom	eu	Europe	9	1.5868644632
+2019	grc	Greece	eu	Europe	55	0.12676855
+2019	hrv	Croatia	eu	Europe	32	0.7518402322
+2019	hun	Hungary	eu	Europe	14	1.360792781
+2019	irl	Ireland	eu	Europe	18	1.2200465707
+2019	ita	Italy	eu	Europe	15	1.3036719346
+2019	ltu	Lithuania	eu	Europe	30	0.8415765301
+2019	mda	Moldova	eu	Europe	68	-0.2221094363
+2019	mkd	North Macedonia	eu	Europe	53	0.1481654736
+2019	nld	Netherlands	eu	Europe	26	1.0203803893
+2019	nor	Norway	eu	Europe	38	0.6117860418
+2019	pol	Poland	eu	Europe	25	1.0490264665
+2019	prt	Portugal	eu	Europe	36	0.6308508395
+2019	rou	Romania	eu	Europe	24	1.0724747913
+2019	rus	Russia	eu	Europe	51	0.1949354856
+2019	srb	Serbia	eu	Europe	35	0.6559992037
+2019	svk	Slovakia	eu	Europe	20	1.1922104699
+2019	svn	Slovenia	eu	Europe	11	1.5719369898
+2019	swe	Sweden	eu	Europe	10	1.5754914354
+2019	ukr	Ukraine	eu	Europe	47	0.2830991953
+2019	can	Canada	na	North America	40	0.5461209239
+2019	cri	Costa Rica	na	North America	50	0.2240578636
+2019	dom	Dominican Republic	na	North America	62	-0.084215905
+2019	gtm	Guatemala	na	North America	69	-0.2558745002
+2019	hnd	Honduras	na	North America	78	-0.3951282548
+2019	jam	Jamaica	na	North America	70	-0.2586046562
+2019	mex	Mexico	na	North America	29	0.9893475791
+2019	nic	Nicaragua	na	North America	96	-0.7325466788
+2019	pan	Panama	na	North America	44	0.4208540692
+2019	slv	El Salvador	na	North America	52	0.1626913038
+2019	usa	United States	na	North America	12	1.4519013943
+2019	aus	Australia	oc	Oceania	82	-0.5056942422
+2019	nzl	New Zealand	oc	Oceania	49	0.230241295
+2019	png	Papua New Guinea	oc	Oceania	126	-1.5929150239
+2019	arg	Argentina	sa	South America	64	-0.1154233493
+2019	bol	Bolivia	sa	South America	106	-0.9934456478
+2019	bra	Brazil	sa	South America	45	0.3379266037
+2019	chl	Chile	sa	South America	71	-0.2769699946
+2019	col	Colombia	sa	South America	54	0.1389196862
+2019	ecu	Ecuador	sa	South America	98	-0.8227360951
+2019	per	Peru	sa	South America	92	-0.6490486592
+2019	pry	Paraguay	sa	South America	75	-0.3628685055
+2019	ury	Uruguay	sa	South America	58	0.0923674781
+2019	ven	Venezuela	sa	South America	103	-0.9249804471
+2020	ago	Angola	af	Africa	105	-1.0138222149
+2020	bfa	Burkina Faso	af	Africa	122	-1.4527270629
+2020	bwa	Botswana	af	Africa	89	-0.6419739146
+2020	civ	Cote d\'Ivoire	af	Africa	109	-1.0652666662
+2020	cmr	Cameroon	af	Africa	113	-1.1669698494
+2020	cod	Democratic Republic of the Congo	af	Africa	107	-1.0437390723
+2020	cog	Republic of the Congo	af	Africa	108	-1.0650094083
+2020	dza	Algeria	af	Africa	106	-1.0306108457
+2020	egy	Egypt	af	Africa	65	-0.1841425467
+2020	eth	Ethiopia	af	Africa	93	-0.7788829387
+2020	gab	Gabon	af	Africa	110	-1.067021729
+2020	gha	Ghana	af	Africa	117	-1.229821938
+2020	gin	Guinea	af	Africa	127	-1.806115743
+2020	ken	Kenya	af	Africa	75	-0.3894115883
+2020	lby	Libya	af	Africa	116	-1.2188807981
+2020	mar	Morocco	af	Africa	87	-0.5809903456
+2020	mdg	Madagascar	af	Africa	114	-1.178939746
+2020	mli	Mali	af	Africa	115	-1.215661525
+2020	moz	Mozambique	af	Africa	112	-1.1162708909
+2020	mrt	Mauritania	af	Africa	126	-1.6121966194
+2020	nam	Namibia	af	Africa	84	-0.5740833671
+2020	ner	Niger	af	Africa	119	-1.3235357011
+2020	nga	Nigeria	af	Africa	124	-1.5706280383
+2020	sdn	Sudan	af	Africa	123	-1.4739918034
+2020	sen	Senegal	af	Africa	95	-0.8150778592
+2020	tgo	Togo	af	Africa	92	-0.7729992986
+2020	tun	Tunisia	af	Africa	51	0.1573886929
+2020	tza	Tanzania	af	Africa	85	-0.5746107656
+2020	uga	Uganda	af	Africa	99	-0.8911755408
+2020	zaf	South Africa	af	Africa	59	-0.0369645506
+2020	zmb	Zambia	af	Africa	88	-0.6188798971
+2020	zwe	Zimbabwe	af	Africa	104	-0.9959487361
+2020	afg	Afghanistan	as	Asia	118	-1.2603885908
+2020	are	United Arab Emirates	as	Asia	53	0.1388351808
+2020	arm	Armenia	as	Asia	68	-0.2756165063
+2020	aze	Azerbaijan	as	Asia	98	-0.8761592988
+2020	bgd	Bangladesh	as	Asia	97	-0.874680802
+2020	chn	China	as	Asia	21	1.1878821697
+2020	geo	Georgia	as	Asia	69	-0.3019584527
+2020	hkg	Hong Kong	as	Asia	19	1.2116437733
+2020	idn	Indonesia	as	Asia	61	-0.0652826509
+2020	ind	India	as	Asia	43	0.4745301025
+2020	irn	Iran	as	Asia	79	-0.4273477903
+2020	irq	Iraq	as	Asia	120	-1.3312674647
+2020	isr	Israel	as	Asia	16	1.3050287633
+2020	jor	Jordan	as	Asia	63	-0.1290135085
+2020	jpn	Japan	as	Asia	1	2.387119458
+2020	kaz	Kazakhstan	as	Asia	80	-0.5177803361
+2020	kgz	Kyrgyzstan	as	Asia	74	-0.3647214774
+2020	khm	Cambodia	as	Asia	90	-0.6896235017
+2020	kor	South Korea	as	Asia	4	2.1059172248
+2020	kwt	Kuwait	as	Asia	58	-0.0292533148
+2020	lao	Laos	as	Asia	91	-0.7359325564
+2020	lbn	Lebanon	as	Asia	45	0.2619328357
+2020	lka	Sri Lanka	as	Asia	76	-0.3928056294
+2020	mmr	Myanmar	as	Asia	103	-0.9594117
+2020	mng	Mongolia	as	Asia	121	-1.3658606038
+2020	mys	Malaysia	as	Asia	23	1.0953350577
+2020	omn	Oman	as	Asia	77	-0.4103436291
+2020	pak	Pakistan	as	Asia	82	-0.5360929829
+2020	phl	Philippines	as	Asia	34	0.6861955583
+2020	qat	Qatar	as	Asia	62	-0.0677294933
+2020	sau	Saudi Arabia	as	Asia	35	0.6106357805
+2020	sgp	Singapore	as	Asia	6	1.919415326
+2020	tha	Thailand	as	Asia	27	0.9664709498
+2020	tkm	Turkmenistan	as	Asia	100	-0.9013696592
+2020	tur	Turkey	as	Asia	37	0.5984287925
+2020	uzb	Uzbekistan	as	Asia	86	-0.5747689683
+2020	vnm	Vietnam	as	Asia	54	0.1173465019
+2020	\N	Chinese Taipei	as	Asia	2	2.2329151088
+2020	alb	Albania	eu	Europe	78	-0.4137971423
+2020	aut	Austria	eu	Europe	7	1.6262044985
+2020	bel	Belgium	eu	Europe	22	1.1320173417
+2020	bgr	Bulgaria	eu	Europe	42	0.5143335685
+2020	bih	Bosnia and Herzegovina	eu	Europe	40	0.5256617217
+2020	blr	Belarus	eu	Europe	31	0.8410343893
+2020	che	Switzerland	eu	Europe	3	2.1140346153
+2020	cze	Czechia	eu	Europe	9	1.5995337297
+2020	deu	Germany	eu	Europe	5	1.9423460643
+2020	dnk	Denmark	eu	Europe	26	0.9788991426
+2020	esp	Spain	eu	Europe	33	0.6969557272
+2020	fin	Finland	eu	Europe	13	1.4268850441
+2020	fra	France	eu	Europe	14	1.3270216608
+2020	gbr	United Kingdom	eu	Europe	10	1.5851926043
+2020	grc	Greece	eu	Europe	55	0.0996810938
+2020	hrv	Croatia	eu	Europe	32	0.7980464622
+2020	hun	Hungary	eu	Europe	15	1.3205930473
+2020	irl	Ireland	eu	Europe	18	1.2794953311
+2020	ita	Italy	eu	Europe	17	1.2841090666
+2020	ltu	Lithuania	eu	Europe	30	0.885866984
+2020	mda	Moldova	eu	Europe	67	-0.2496863998
+2020	mkd	North Macedonia	eu	Europe	48	0.1906419049
+2020	nld	Netherlands	eu	Europe	28	0.9642192664
+2020	nor	Norway	eu	Europe	39	0.5518932686
+2020	pol	Poland	eu	Europe	25	1.037741077
+2020	prt	Portugal	eu	Europe	38	0.5917504496
+2020	rou	Romania	eu	Europe	24	1.0865073654
+2020	rus	Russia	eu	Europe	49	0.1872544348
+2020	srb	Serbia	eu	Europe	36	0.5988114832
+2020	svk	Slovakia	eu	Europe	20	1.2032915903
+2020	svn	Slovenia	eu	Europe	8	1.6128048445
+2020	swe	Sweden	eu	Europe	11	1.5836047247
+2020	ukr	Ukraine	eu	Europe	44	0.3126314207
+2020	can	Canada	na	North America	41	0.5247350347
+2020	cri	Costa Rica	na	North America	47	0.2027100568
+2020	dom	Dominican Republic	na	North America	66	-0.1861951025
+2020	gtm	Guatemala	na	North America	70	-0.3060029392
+2020	hnd	Honduras	na	North America	81	-0.5181967391
+2020	jam	Jamaica	na	North America	73	-0.352614738
+2020	mex	Mexico	na	North America	29	0.9568735905
+2020	nic	Nicaragua	na	North America	96	-0.8408782574
+2020	pan	Panama	na	North America	57	0.0742950514
+2020	slv	El Salvador	na	North America	56	0.0827760775
+2020	usa	United States	na	North America	12	1.468710807
+2020	aus	Australia	oc	Oceania	83	-0.5478349924
+2020	nzl	New Zealand	oc	Oceania	50	0.160958886
+2020	png	Papua New Guinea	oc	Oceania	125	-1.5944248175
+2020	arg	Argentina	sa	South America	64	-0.1660452468
+2020	bol	Bolivia	sa	South America	111	-1.0754193681
+2020	bra	Brazil	sa	South America	46	0.227245715
+2020	chl	Chile	sa	South America	71	-0.3279963662
+2020	col	Colombia	sa	South America	52	0.1431355793
+2020	ecu	Ecuador	sa	South America	102	-0.9213335277
+2020	per	Peru	sa	South America	94	-0.8005707125
+2020	pry	Paraguay	sa	South America	72	-0.3495787257
+2020	ury	Uruguay	sa	South America	60	-0.049650596
+2020	ven	Venezuela	sa	South America	101	-0.9035404047
